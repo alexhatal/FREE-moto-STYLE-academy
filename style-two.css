@@ -518,7 +518,7 @@ a#gdpra{
     box-shadow: none;
   }
   
-  .card {
+  .formcard {
     margin: 20px auto 80px auto;
     padding: 0 0 20px;
     background: #fff;
@@ -529,11 +529,11 @@ a#gdpra{
     border-radius: 35px;
   }
   
-  .card.end {
+  .formcard.end {
     padding-bottom: 0;
   }
   
-  .card.end form {
+  .formcard.end form {
     display: none;
   }
   
@@ -541,7 +541,7 @@ a#gdpra{
     height: 150px;
     background-image: linear-gradient(180deg, rgb(255, 137, 1), rgb(250, 183, 0));
     background-size: 100% 100%;
-    margin-bottom: px;
+    margin-bottom: 20px;
     color: #fff;
     padding: 10px 15px;
     overflow: hidden;
@@ -768,14 +768,14 @@ i#form-icon {
   }
   /* End styles */
   
-  .card .ending {
+  .formcard .ending {
     visibility: hidden;
     display: flex;
     height: 0;
     transition: visibility 0.8s linear;
   }
   
-  .card.end .ending {
+  .formcard .end .ending {
     height: 100%;
     min-height: 64px;
     visibility: visible;
