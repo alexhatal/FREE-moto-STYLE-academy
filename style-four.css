@@ -1,0 +1,48 @@
+body{
+    background-image: url(img/banner-bg.svg);
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font: 20px/2.2 system-ui;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+p,a{
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+.main-headline{
+    margin-top: 6%;
+}
+h1.main-headline{
+    font-size: 100px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+p.main-descp{
+    font-size: 25px;
+    color: #ffffff;
+    padding-left: 125px;
+}
+
+
+/***MAIN***/
+
+.slide-nav{
+    width: 300px;
+    height: 450px;
+}
+
+.image-nav{
+    width: 2400px;
+    height: 450px;
+    position: relative;
+    transition: left 2s;
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
+}

@@ -43,9 +43,16 @@ p.main-descp{
     box-shadow: 2px 2px 10px 3px #6b6b6b;
     width: 160px;
     text-align: center;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0 rgb(255, 137, 1).5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    
 }
 
 .service-select a:hover{
+
 
 }
 
@@ -485,7 +492,6 @@ a#gdpra{
   button#confirm  {
     background: rgb(255, 137, 1);
     border: none;
-    border-radius: 2px;
     color: #fff;
     height: 36px;
     padding: 0px 15px;
@@ -495,6 +501,27 @@ a#gdpra{
     text-align: center;
     line-height: 36px;
     vertical-align: middle;
+    background-color: rgb(255, 137, 1);
+    box-shadow: 2px 2px 7px 3px rgb(163, 163, 163, 0.5);
+    border-radius: 50px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0 rgb(255, 137, 1).5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    z-index: 1;
+    position: relative;
+    float: inline-end;
+    top: -15px;
+  }
+ 
+  button#confirm:hover{
+    border-radius: 0 50px;
+  }
+ 
+  a button#confirm{
+    color: #ffffff;
+    padding: 10px 40px;
   }
   
   button #confirm i {

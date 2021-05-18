@@ -28,7 +28,7 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
-//KONTAKT TEST//
+//KONTAKT//
 
 $('.input').on("focus blur", function() {
   if ($(this).val().length > 0 || $('.input').is(':focus')) {
@@ -77,3 +77,6 @@ $('#confirm').click(function() {
     event.preventDefault();
   });
 });
+
+
+
