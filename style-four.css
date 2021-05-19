@@ -35,7 +35,7 @@ p.main-descp{
 .tab-nav-container{
     position: relative;
     width: 100%;
-    background-color: rgb(255, 255, 255, 0.1);
+   
 }
 .tab{
 display:flex;
@@ -51,31 +51,30 @@ flex-wrap: wrap;
 }
 
 
-
-button.tablinks {
+a.tablinks {
     width: 200px;
     height: 180px;
     justify-content: center;
-    background-color: #ffffff;
     border: none;
     min-width: fit-content;
     transition: 0.5s ease-in-out;
+    cursor: pointer;
 }
 
 
-button.tablinks:hover{
-    filter: drop-shadow(2px 2px 10px rgb(136, 136, 136));
+a.tablinks:hover{
+    filter: drop-shadow(2px 2px 30px rgb(77, 77, 77));
     width: 205px;
     height: 185px;
 }
 
-button.tablinks img{
+a.tablinks img{
     width: inherit;
 }
 
-
-
-
+a.tablinks.active{
+    background-color: rgb(255, 137, 1, 0.5);
+}
 
 .tabcontent{
     display:inline-flex;
@@ -106,4 +105,147 @@ table{
 td{
     font-size: 15px;
 }
+
+.tooltiptext {
+    visibility: hidden;
+    width: 150px;
+    font-size: 14px;
+    background-color: rgb(255, 137, 1);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    opacity: 0;
+    transition: opacity 0.3s;
+    position: relative;
+    left: -25px;
+    top: -30px;
+    cursor: initial;
+  }
+
+  #one.tooltiptext::after {
+  content: "";
+  position: absolute;
+  border-width: 5px;
+  
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+#one:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+#two.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#two:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #three.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#three:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #four.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#four:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #five.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#five:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #six.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#six:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #seven.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#seven:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #eight.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#eight:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #nine.tooltiptext::after {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+#nine:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #nine{
+     background-color: #ffffff;
+     border-radius: 20px;
+  }
 
