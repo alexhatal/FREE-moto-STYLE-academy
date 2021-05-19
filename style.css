@@ -440,7 +440,7 @@ a.person-social i:hover{
 
 /* FOOTER START */
 .footer{
-  background-image: linear-gradient(60deg, #3f3f3f 50%, #868686 50%);
+  background-image: linear-gradient(60deg, #131313 50%, #414141 50%);
   width: 100%;
   box-sizing: border-box;
   text-align: left;
@@ -619,11 +619,12 @@ hr{
 }
 
 a.reference{
-  color: #2a006b;
+  color: rgb(255, 137, 1);
 }
 
 a.reference:hover{
   color: #ff225c;
+  font-weight: bolder;
 }
 /* FOOTER END */
 

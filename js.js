@@ -80,18 +80,25 @@ $('#confirm').click(function() {
 
 
 //TAB NAV//
+
+
 function openTab(evt, tabName) {
-  var i, tabcontent, tablinks;
+  var activeTab, i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
   for (i = 0; i < tabcontent.length; i++) {
+    if (tabcontent[i].style.display !== "none") {
+      activeTab = tabcontent[i].id;
+    }
     tabcontent[i].style.display = "none";
   }
   tablinks = document.getElementsByClassName("tablinks");
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
-  document.getElementById(tabName).style.display = "inline-flex";
-  evt.currentTarget.className += " active";
+  if (activeTab !== tabName) {
+    document.getElementById(tabName).style.display = "inline-flex";
+    evt.currentTarget.className += " active";
+  }
 }
 
 

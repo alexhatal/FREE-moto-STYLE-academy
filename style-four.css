@@ -79,6 +79,7 @@ a.tablinks.active{
 .tabcontent{
     display:inline-flex;
     align-items: center;
+    display: none;
 }
 .tabitem{
 width: 50%;
@@ -247,5 +248,81 @@ td{
   #nine{
      background-color: #ffffff;
      border-radius: 20px;
+  }
+
+/****PRICE LIST****/
+
+.price-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-image: url(img/price-banner.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+
+.price-item{
+    color: #ffffff;
+}
+
+.price-item a{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.price-item a:hover{
+    color: rgb(29, 29, 29);
+}
+
+#price-btn{
+    background-color: rgb(29, 29, 29);
+    box-shadow: 2px 2px 15px 3px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0 rgb(255, 137, 1).5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    z-index: 1;
+    position: relative;
+    float: inline-end;
+    top: 40px;
+    
+  }
+ 
+  #price-btn:hover{
+    border-radius: 0 50px;
+  }
+ 
+  a#price-btn{
+    color: #ffffff;
+    padding: 20px 40px;
+  }
+
+  .main-head{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .main-head p{
+      font-size: 20px;
+      text-align: center;
+  }
+
+  .main-head a{
+      font-size: 20px;
+      color: rgb(255, 137, 1) ;
+      font-weight: bolder;
+  }
+
+  .main-head a:hover{
+    color:rgb(29, 29, 29);
   }
 
