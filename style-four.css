@@ -80,7 +80,9 @@ a.tablinks.active{
     display:inline-flex;
     align-items: center;
     display: none;
+    margin-bottom: 120px;
 }
+
 .tabitem{
 width: 50%;
 margin: 0 auto;
@@ -320,6 +322,7 @@ td{
       font-size: 20px;
       color: rgb(255, 137, 1) ;
       font-weight: bolder;
+      
   }
 
   .main-head a:hover{
@@ -329,4 +332,39 @@ td{
   a#gdpra{
       font-size: 12px;
   }
+
+.price-small{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(255, 137, 1);
+  background-size: cover;
+  min-width: 300px;
+  width: 70%;
+  height: fit-content;
+  position: relative;
+  color: #ffffff;
+  border-radius: 0 30px 30px 0;
+}
+
+.price-small-item{
+  padding: 0 30px;
+}
+
+.price-small-item h3{
+  font-size: 18px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+p.price-sub{
+  font-weight: bolder;
+}
+
+p.price-descp{
+  font-size: 14px;
+}
 
