@@ -80,6 +80,10 @@ body{
 @media only screen 
 and (min-device-width: 480px) 
 and (max-device-width: 568px) { 
+
+    body{
+        background-image: url(img/mainbg-smd.jpg);
+    }
     /***FOOTER***/
     .footer .footer-logo,
   .footer .footer-left,
@@ -154,6 +158,10 @@ and (max-device-width: 568px) {
 @media only screen 
 and (min-device-width: 569px) 
 and (max-device-width: 768px) { 
+
+    body{
+        background-image: url(img/mainbg-smd.jpg);
+    }
     /***FOOTER***/
     .footer .footer-logo,
     .footer .footer-left,
