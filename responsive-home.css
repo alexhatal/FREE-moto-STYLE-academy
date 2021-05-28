@@ -541,13 +541,15 @@ span.toggle-btn{
 
 .main-headline{
   margin-top: 40%;
-  margin-left: 50px;
+  margin-left: 0px;
   width: 80%;
+  padding: 40px;
 }
 
 h1.headline{
   font-size: 30px;
   line-height: 40px;
+  filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
 }
 
 a.headline-btn{

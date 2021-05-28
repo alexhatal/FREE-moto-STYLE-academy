@@ -138,7 +138,8 @@ a{
         font-size: 70px;
         line-height: 100px;
         text-shadow: 2px 2px 5px #818181;
-    }
+        filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
+      }
 
     .headline-btn{
         background-color: #ffffff;
