@@ -25,14 +25,14 @@ body{
 .logo-name{
   font-size: 12px;
   position: relative;
-  top: -28px;
+  top: -10px;
   width: 70%;
 }
 
 span{
   padding:0;
   position: relative;
-  left: 120px;
+  left: 70px;
   font-size: 18px;
 }
 
