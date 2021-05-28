@@ -398,9 +398,12 @@ h2.block-three-headline{
 p.label{
   font-size: 20px;
   font-weight: bolder;
+  line-height: 1.8;
 }
+
 p.description{
   font-size: 18px;
+  line-height: 1.6;
 }
 
 h3.name{
