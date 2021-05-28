@@ -1,7 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     margin: 0;
-    font: 20px/2.2 system-ui;
+    font-size: 18px;
     width: 100%;
     background-image: url(img/mainbackground-s.jpg);
     background-size: 100%;
@@ -248,6 +248,8 @@ a{
      font-weight: normal;
      text-align: center;
  }
+ /****SERVICES - END*****/
+
 
  /****BLOCK-TWO*****/
 
@@ -571,7 +573,7 @@ color: rgb(255, 137, 1);
   margin: 0;
 }
 
-.footer .gdpr span{
+.footer .gdpr{
   display: block;
   color: #ffffff;
   font-size: 16px;
@@ -579,7 +581,7 @@ color: rgb(255, 137, 1);
   margin-bottom: 20px;
 }
 
-span.gdpr{
+.gdpr{
   float: none;
 }
 
