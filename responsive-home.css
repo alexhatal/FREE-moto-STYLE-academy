@@ -41,16 +41,25 @@ span.toggle-btn{
   margin-top: 15px;
 }
 
+
+.toggle-btn{
+  width: 120px;
+}
+
 .main-headline{
-  margin-top: 30%;
-  margin-left: 50px;
+  margin-top: 10%;
+  margin-left: 20px;
+  padding: 20px;
   width: 80%;
+
 }
 
 h1.headline{
   font-size: 27px;
   line-height: 40px;
+  margin-bottom: 10px;
 }
+
 
 a.headline-btn{
   font-size: 16px;
@@ -60,7 +69,7 @@ a.headline-btn{
 }
 
 .devider1{
-  height: 30px;
+  height: 20px;
 }
 
 .social{
@@ -131,6 +140,10 @@ h2.block-three-headline {
 
 .person-item{
   width: 100%;
+}
+
+p.label, p.description{
+  font-size: 14px;
 }
 
 .personal-info{
@@ -276,6 +289,7 @@ body{
 
 .logo-name{
   font-size: 12px;
+  padding-top: 0px;
 }
 
 span{
@@ -290,9 +304,18 @@ span.toggle-btn{
   margin-top: 15px;
 }
 
+.toggle-btn{
+  width: 180px;
+}
+
+.toggle-btn img{
+  width: 15%;
+}
+
 .main-headline{
-  margin-top: 40%;
-  margin-left: 50px;
+  margin-top: 10%;
+  margin-left: 20px;
+  padding: 40px;
   width: 80%;
 }
 
@@ -410,6 +433,10 @@ h3.name{
   font-size: 40px;
   padding: 0 30px;
   width: 100%;
+}
+
+p.label, p.description{
+  font-size: 14px;
 }
 
 img.partner-logo{
@@ -546,6 +573,15 @@ span.toggle-btn{
   padding: 40px;
 }
 
+.toggle-btn{
+  width: 180px;
+}
+
+.toggle-btn img{
+  width: 15%;
+}
+
+
 h1.headline{
   font-size: 30px;
   line-height: 40px;
@@ -560,7 +596,7 @@ a.headline-btn{
 }
 
 .devider1{
-  height: 40px;
+  height: 20px;
 }
 
 .social{
@@ -631,6 +667,10 @@ h2.block-three-headline {
 
 .person-item{
   width: 100%;
+}
+
+p.label, p.description{
+  font-size: 14px;
 }
 
 .personal-info{
@@ -2254,6 +2294,72 @@ left: 0%;
 @media only screen 
 and (min-width: 1280px) 
 and (max-width: 1366px) {
+body{
+  background-image: url(img/mainbg-med2.jpg);
+  width: 100%;
+  background-size: contain;
+}
+
+.hero{
+  margin: 40px 15px;
+}
+
+.hero img{
+  width: 10%;
+  margin-right: 20px;
+}
+
+
+.logo img{
+  margin-left: 0px;
+}
+
+.logo-name{
+  font-size: 25px;
+  padding-top: 50px;
+}
+
+.toggle-btn{
+width: 180px;
+}
+
+.toggle-btn img{
+  width: 30%;
+}
+span{
+  padding:0;
+  font-size: 30px;
+}
+
+span img{
+  width: 15%;
+}
+
+span.toggle-btn{
+  float: right;
+  margin-top: 30px;
+}
+  .main-headline{
+    margin-top: 15%;
+    margin-left: 120px;
+}
+  h1.headline{
+    font-size: 60px;
+    line-height: 90px;
+    margin-bottom: 20px;
+  }
+
+  .personal-info{
+    padding: 0 40px;
+  }
+
+  #uax{
+    margin-left: 120px;
+  }
+
+  img#uax{
+    width: 45%;
+  }
     /***FOOTER***/
     .footer .footer-left{
         margin-left: 0px;
@@ -2266,10 +2372,79 @@ and (max-width: 1366px) {
 
 @media only screen 
 and (min-width: 1367px) 
-and (max-width: 1499px) { 
+and (max-width: 1440px) {
+body{
+  background-image: url(img/mainbg-med2.jpg);
+  width: 100%;
+  background-size: contain;
+}
+
+.hero{
+  margin: 40px 15px;
+}
+
+.hero img{
+  width: 10%;
+  margin-right: 20px;
+}
+
+
+.logo img{
+  margin-left: 0px;
+}
+
+.logo-name{
+  font-size: 25px;
+  padding-top: 50px;
+}
+
+.toggle-btn{
+width: 180px;
+}
+
+.toggle-btn img{
+  width: 30%;
+}
+span{
+  padding:0;
+  font-size: 30px;
+}
+
+span img{
+  width: 15%;
+}
+
+span.toggle-btn{
+  float: right;
+  margin-top: 30px;
+}
+  .main-headline{
+    margin-top: 15%;
+    margin-left: 120px;
+}
+  h1.headline{
+    font-size: 60px;
+    line-height: 90px;
+    margin-bottom: 20px;
+  }
+
+  .personal-info{
+    padding: 0 40px;
+  }
+
+  #uax{
+    margin-left: 120px;
+  }
+
+  img#uax{
+    width: 45%;
+  }
     /***FOOTER***/
     .footer .footer-left{
-        margin-left: 80px;
+        margin-left: 0px;
+      }
+      .footer .footer-company {
+      margin-top: 50px;
       }
     /***FOOTER***/
 }
@@ -2277,6 +2452,45 @@ and (max-width: 1499px) {
 @media only screen 
 and (min-width: 1500px) 
 and (max-width: 1652px) {
+  .hero{
+    margin: 40px 15px;
+  }
+  
+  .hero img{
+    width: 10%;
+    margin-right: 20px;
+  }
+  
+  
+  .logo img{
+    margin-left: 0px;
+  }
+  
+  .logo-name{
+    font-size: 25px;
+    padding-top: 50px;
+  }
+  
+  .toggle-btn{
+  width: 180px;
+  }
+  
+  .toggle-btn img{
+    width: 30%;
+  }
+  span{
+    padding:0;
+    font-size: 30px;
+  }
+  
+  span img{
+    width: 15%;
+  }
+  
+  span.toggle-btn{
+    float: right;
+    margin-top: 30px;
+  }
     /***FOOTER***/
     .footer .footer-left{
         margin-left: 80px;
