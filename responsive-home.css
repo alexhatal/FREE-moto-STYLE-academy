@@ -1,6 +1,6 @@
 @media only screen 
-and (min-device-width: 320px) 
-and (max-device-width: 359px) { 
+and (min-width: 320px) 
+and (max-width: 359px) { 
 body{
     background-image: url(img/mainbg-smd.jpg);
     background-repeat: no-repeat;
@@ -251,8 +251,8 @@ left: 30%;
 }
 
 @media only screen 
-and (min-device-width: 360px) 
-and (max-device-width: 392px) { 
+and (min-width: 360px) 
+and (max-width: 392px) { 
 body{
     background-image: url(img/mainbg-smd.jpg);
     background-repeat: no-repeat;
@@ -500,8 +500,8 @@ left: 30%;
 }
 
 @media only screen 
-and (min-device-width: 393px) 
-and (max-device-width: 432px) { 
+and (min-width: 393px) 
+and (max-width: 432px) { 
 body{
     background-image: url(img/mainbg-smd.jpg);
     background-repeat: no-repeat;
@@ -751,8 +751,8 @@ left: 30%;
 }
 
 @media only screen 
-and (min-device-width: 433px) 
-and (max-device-width: 540px) { 
+and (min-width: 433px) 
+and (max-width: 540px) { 
 body{
     background-image: url(img/mainbg-smd.jpg);
     background-repeat: no-repeat;
@@ -1004,8 +1004,8 @@ left: 30%;
 
 
 @media only screen 
-and (min-device-width: 541px) 
-and (max-device-width: 599px) { 
+and (min-width: 541px) 
+and (max-width: 599px) { 
 body{
     background-image: url(img/mainbg-smd.jpg);
     background-repeat: no-repeat;
@@ -1258,8 +1258,8 @@ left: 30%;
 }
 
 @media only screen 
-and (min-device-width: 600px) 
-and (max-device-width: 768px) { 
+and (min-width: 600px) 
+and (max-width: 768px) { 
 body{
     background-image: url(img/mainbg-med.jpg);
     background-repeat: no-repeat;
@@ -1517,8 +1517,8 @@ left: 30%;
 
 
 @media only screen 
-and (min-device-width: 769px) 
-and (max-device-width: 834px) { 
+and (min-width: 769px) 
+and (max-width: 834px) { 
 
   body{
     background-image: url(img/mainbg-med.jpg);
@@ -1770,8 +1770,8 @@ left: 30%;
 }
 
 @media only screen 
-and (min-device-width: 835px) 
-and (max-device-width: 992px) { 
+and (min-width: 835px) 
+and (max-width: 992px) { 
   body{
     background-image: url(img/mainbg-med.jpg);
     background-repeat: no-repeat;
@@ -2011,8 +2011,8 @@ left: 0%;
 }
 
 @media only screen 
-and (min-device-width: 993px) 
-and (max-device-width: 1279px) { 
+and (min-width: 993px) 
+and (max-width: 1279px) { 
   body{
     background-image: url(img/mainbg-med.jpg);
     background-repeat: no-repeat;
@@ -2252,8 +2252,8 @@ left: 0%;
 }
 
 @media only screen 
-and (min-device-width: 1280px) 
-and (max-device-width: 1366px) {
+and (min-width: 1280px) 
+and (max-width: 1366px) {
     /***FOOTER***/
     .footer .footer-left{
         margin-left: 0px;
@@ -2265,8 +2265,8 @@ and (max-device-width: 1366px) {
 }
 
 @media only screen 
-and (min-device-width: 1367px) 
-and (max-device-width: 1499px) { 
+and (min-width: 1367px) 
+and (max-width: 1499px) { 
     /***FOOTER***/
     .footer .footer-left{
         margin-left: 80px;
@@ -2275,8 +2275,8 @@ and (max-device-width: 1499px) {
 }
 
 @media only screen 
-and (min-device-width: 1500px) 
-and (max-device-width: 1652px) {
+and (min-width: 1500px) 
+and (max-width: 1652px) {
     /***FOOTER***/
     .footer .footer-left{
         margin-left: 80px;
