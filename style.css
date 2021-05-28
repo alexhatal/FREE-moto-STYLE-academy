@@ -120,6 +120,7 @@ a{
       .logo-name{
         color: #ffffff;
         font-size: 20px;
+        padding-top: 23px;
       }
 
       .logo-name:hover{
@@ -129,7 +130,7 @@ a{
     /***MAIN HEADLINE****/
 
     .main-headline{
-        margin-top: 8%;
+        margin-top: 15%;
         margin-left: 120px;
     }
 
@@ -138,7 +139,8 @@ a{
         font-size: 70px;
         line-height: 100px;
         text-shadow: 2px 2px 5px #818181;
-        filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
+        filter: drop-shadow(3px 3px 5px rgb(0,0,0) );
+        stroke:rgb(255, 255, 255);
       }
 
     .headline-btn{
