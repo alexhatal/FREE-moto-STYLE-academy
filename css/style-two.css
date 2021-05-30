@@ -73,6 +73,7 @@ p.main-descp{
     flex-wrap: wrap;
     margin-top: 100px;
     justify-content: center;
+    align-items: center;
 }
 
 .blockone-item{
@@ -92,6 +93,7 @@ width: 45%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 100px;
+    align-items: center;
 }
 
 .blocktwo-item{
@@ -128,6 +130,7 @@ width: 45%;
     margin-top: 100px;
     display: inline-flex;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 
@@ -259,6 +262,7 @@ p.four-one {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    margin-top: 50px;
 }
 
 .blockfive-item{
@@ -341,7 +345,6 @@ p.four-one {
 
 .blockseven-item p{
     margin-top: 25%;
-    width: 90%;
     margin-left: 100px;
 
 }
