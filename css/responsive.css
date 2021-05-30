@@ -16,8 +16,6 @@ and (max-width: 359px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 70px;
   font-size: 18px;
 }
 
@@ -147,8 +145,6 @@ and (max-width: 392px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 18px;
 }
 
@@ -278,8 +274,6 @@ and (max-width: 432px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 18px;
 }
 
@@ -412,8 +406,6 @@ and (max-width: 540px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 25px;
 }
 
@@ -538,8 +530,6 @@ and (max-width: 599px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 25px;
 }
 
@@ -665,8 +655,6 @@ and (max-width: 768px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 80px;
   font-size: 25px;
 }
 
@@ -793,8 +781,6 @@ and (max-width: 834px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 25px;
 }
 
@@ -915,8 +901,6 @@ and (max-width: 992px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 80px;
   font-size: 30px;
 }
 
@@ -1018,7 +1002,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
   left: 60px;
   font-size: 30px;
 }

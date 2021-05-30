@@ -31,8 +31,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
-  left: 70px;
   font-size: 18px;
 }
 
@@ -294,8 +292,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 18px;
 }
 
@@ -556,8 +552,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 18px;
 }
 
@@ -821,8 +815,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 25px;
 }
 
@@ -1074,8 +1066,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 25px;
 }
 
@@ -1328,8 +1318,6 @@ body{
 
 span{
   padding:0;
-  position: relative;
-  left: 80px;
   font-size: 25px;
 }
 
@@ -1588,8 +1576,6 @@ and (max-width: 834px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 120px;
   font-size: 25px;
 }
 
@@ -1824,24 +1810,18 @@ and (max-width: 992px) {
 }
 
 .hero img{
-  width: 15%;
-  margin-right: 10px;
+  width: 12%;
+  margin-right: 00px;
 }
 
-
-.logo img{
-  margin-left: 0px;
-}
 
 .logo-name{
-  font-size: 25px;
-  padding-top: 50px;
+  font-size: 22px;
+  padding-top: 40px;
 }
 
 span{
   padding:0;
-  position: relative;
-  left: 80px;
   font-size: 30px;
 }
 
@@ -1853,7 +1833,9 @@ span.toggle-btn{
   float: right;
   margin-top: 30px;
 }
-
+.toggle-btn{
+  margin-right: 10px;
+}
 .main-headline{
   margin-top: 30%;
   margin-left: 50px;
@@ -1870,7 +1852,7 @@ h1.headline{
 
 a.headline-btn{
   font-size: 22px;
-  padding: 30px 40px;
+  padding: 15px 25px;
   text-decoration: none;
   color: black;
 
@@ -1999,7 +1981,7 @@ left: 0%;
 
      /***FOOTER***/
     .footer .footer-logo{
-        width: 18%;
+        width: 16%;
       }
       
       .footer .footer-logo img{
@@ -2012,9 +1994,9 @@ left: 0%;
         margin-left: 40px;
       }
       .footer .footer-center{
-        width: 32%;
+        width: 38%;
         margin-left: -50px;
-        margin-top: 20px;
+        margin-top: 0px;
       }
       
       .footer .footer-right{
@@ -2025,23 +2007,26 @@ left: 0%;
         width: 30px;
         height: 30px;
         line-height: 32px;
-        font-size: 15px;
+        font-size: 13px;
       }
       
       .footer .footer-center i.fa-envelope {
-        font-size: 15px;
+        font-size: 13px;
         line-height: 32px;
       }
-      
+      .footer .gdpr{
+        font-size: 12px;
+      }
+
       .footer .footer-links a,
       .footer .footer-center p,
       .download a{
-        font-size: 16px;
+        font-size: 13px;
       }
       
       .footer .footer-company,
       .copy {
-        font-size: 14px;
+        font-size: 10px;
       }
       
       .download{
@@ -2066,7 +2051,7 @@ and (max-width: 1279px) {
 
 .hero img{
   width: 15%;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 
@@ -2081,8 +2066,6 @@ and (max-width: 1279px) {
 
 span{
   padding:0;
-  position: relative;
-  left: 80px;
   font-size: 30px;
 }
 
@@ -2092,7 +2075,11 @@ span img{
 
 span.toggle-btn{
   float: right;
-  margin-top: 30px;
+  margin-top: 45px;
+}
+
+.toggle-btn{
+  margin-right: 10px;
 }
 
 .main-headline{
@@ -2111,7 +2098,7 @@ h1.headline{
 
 a.headline-btn{
   font-size: 22px;
-  padding: 30px 40px;
+  padding: 15px 25px;
   text-decoration: none;
   color: black;
 
@@ -2353,6 +2340,19 @@ span.toggle-btn{
     padding: 0 40px;
   }
 
+  p.label{
+    font-size: 16px;
+  }
+
+  p.description{
+font-size: 14px;
+  }
+
+  h3.name {
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
   #uax{
     margin-left: 120px;
   }
