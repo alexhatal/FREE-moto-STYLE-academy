@@ -205,13 +205,131 @@ p{
     font-size: 25px;
   }
   
-  
-  
-  
-  
   /***BLOCKS***/
 
 
+
+/*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  h1.main-headline{
+    margin-top: 15%;
+  }
+
+  p.main-descp {
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.tab-nav-container{
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  a.tablinks {
+    width: 150px;
+    height: 100px;
+    justify-content: center;
+    min-width: none;
+}
+
+
+a.tablinks:hover{
+    width: 150px;
+    height: 100px;
+}
+
+  a.tablinks img{
+    width: 90%;
+  }
+
+  .tooltiptext{
+    left: -11%;
+    font-size: 10px;
+    padding: 5px;
+    width: 80px;
+  }
+
+  .tabcontent{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+
+
+  .main-head h1{
+    font-size: 30px;
+  }
+
+  .main-head p{
+    font-size: 16px;
+  }
+
+  .main-head img{
+    width: 80%;
+    margin-left: 40px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-sm.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 90%;
+    font-size: 14px;
+    line-height: 1.6;
+
+}
+.tabitem-text h1{
+  line-height: 1.4;
+}
+td{
+  font-size: 12px;
+}
+
+.price-item a {
+  font-size: 20px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+.price-small-item h2{
+  font-size: 20px;
+}
+
+.price-small-item h3{
+  font-size: 14px;
+  width: 90%;
+  line-height: 1.6;
+  padding-bottom: 10px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/  
 
     /***FOOTER***/
     .footer .footer-logo,
@@ -497,11 +615,132 @@ p{
   }
   
   
-  
-  
-  
   /***BLOCKS***/
 
+
+
+/*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  h1.main-headline{
+    margin-top: 15%;
+  }
+
+  p.main-descp {
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.tab-nav-container{
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  a.tablinks {
+    width: 150px;
+    height: 100px;
+    justify-content: center;
+    min-width: none;
+}
+
+
+a.tablinks:hover{
+    width: 150px;
+    height: 100px;
+}
+
+  a.tablinks img{
+    width: 90%;
+  }
+
+  .tooltiptext{
+    left: -11%;
+    font-size: 10px;
+    padding: 5px;
+    width: 80px;
+  }
+
+  .tabcontent{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .tabitem-text h1{
+    line-height: 1.4;
+  }
+  td{
+    font-size: 12px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+
+
+  .main-head h1{
+    font-size: 35px;
+  }
+
+  .main-head p{
+    font-size: 16px;
+  }
+
+  .main-head img{
+    width: 80%;
+    margin-left: 40px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-sm.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 90%;
+    font-size: 14px;
+    line-height: 1.6;
+
+}
+
+.price-item a {
+  font-size: 20px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+.price-small-item h2{
+  font-size: 20px;
+}
+
+.price-small-item h3{
+  font-size: 14px;
+  width: 90%;
+  line-height: 1.6;
+  padding-bottom: 10px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
     /***FOOTER***/
@@ -784,11 +1023,132 @@ p{
   }
   
   
-  
-  
-  
   /***BLOCKS***/
 
+
+
+    /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  h1.main-headline{
+    margin-top: 15%;
+  }
+
+  p.main-descp {
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.tab-nav-container{
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  a.tablinks {
+    width: 150px;
+    height: 100px;
+    justify-content: center;
+    min-width: none;
+}
+
+
+a.tablinks:hover{
+    width: 150px;
+    height: 100px;
+}
+
+  a.tablinks img{
+    width: 90%;
+  }
+
+  .tooltiptext{
+    left: -11%;
+    font-size: 10px;
+    padding: 5px;
+    width: 80px;
+  }
+
+  .tabcontent{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .tabitem-text h1{
+    line-height: 1.4;
+  }
+  td{
+    font-size: 12px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+
+
+  .main-head h1{
+    font-size: 35px;
+  }
+
+  .main-head p{
+    font-size: 16px;
+  }
+
+  .main-head img{
+    width: 80%;
+    margin-left: 40px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-sm.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 90%;
+    font-size: 14px;
+    line-height: 1.8;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+.price-small-item h2{
+  font-size: 22px;
+}
+
+.price-small-item h3{
+  font-size: 16px;
+  width: 90%;
+  line-height: 1.6;
+  padding-bottom: 10px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
     /***FOOTER***/
@@ -1069,13 +1429,110 @@ p{
   .blockeight p{
     font-size: 25px;
   }
-  
-  
-  
-  
-  
+
   /***BLOCKS***/
 
+
+
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  h1.main-headline{
+    margin-top: 15%;
+  }
+
+  p.main-descp {
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+.tab-nav-container{
+  background-color: rgb(255, 255, 255, 0.3);
+}
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  a.tablinks {
+    width: 150px;
+    height: 130px;
+    justify-content: center;
+    min-width: none;
+}
+
+
+a.tablinks:hover{
+    width: 150px;
+    height: 130px;
+}
+
+  a.tablinks img{
+    width: 90%;
+  }
+
+  .tooltiptext{
+    left: -3%;
+    font-size: 12px;
+  }
+
+  .tabcontent{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-sm.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 90%;
+    font-size: 14px;
+    line-height: 1.8;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+.price-small-item h2{
+  font-size: 22px;
+}
+
+.price-small-item h3{
+  font-size: 16px;
+  width: 90%;
+  line-height: 1.6;
+  padding-bottom: 10px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
     /***FOOTER***/
@@ -1354,12 +1811,89 @@ p{
     font-size: 25px;
   }
   
-  
-  
-  
-  
   /***BLOCKS***/
 
+
+
+/*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp {
+    font-size: 15px;
+    padding-left: 70px;
+}
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  a.tablinks {
+    width: 150px;
+    height: 130px;
+    justify-content: center;
+    min-width: none;
+}
+
+
+a.tablinks:hover{
+    width: 150px;
+    height: 130px;
+}
+
+  a.tablinks img{
+    width: 90%;
+  }
+
+  .tooltiptext{
+    left: -3%;
+    font-size: 12px;
+  }
+
+  .tabcontent{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-sm.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 90%;
+    font-size: 14px;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
     /***FOOTER***/
@@ -1624,12 +2158,71 @@ p{
     font-size: 25px;
   }
   
-  
-  
-  
-  
   /***BLOCKS***/
 
+
+  
+    /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp {
+    font-size: 16px;
+    padding-left: 70px;
+}
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: 0%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-sm.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 90%;
+    font-size: 16px;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
     /***FOOTER***/
@@ -1881,6 +2474,67 @@ p{
   /***BLOCKS***/
 
 
+    /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp{
+    font-size: 18px;
+    padding-left: 80px;
+  }
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: -30%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-med.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 80%;
+    font-size: 16px;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+
 
     /***FOOTER***/
     .footer .footer-logo,
@@ -2091,13 +2745,73 @@ and (max-width: 992px) {
   .blockeight p{
     font-size: 30px;
   }
-  
-  
-  
-  
+
   
   /***BLOCKS***/
 
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp{
+    font-size: 18px;
+    padding-left: 80px;
+  }
+
+  .slick-itm{
+    width: 30%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: -30%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+
+.tabitem{
+  width: 100%;
+}
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-med.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 80%;
+    font-size: 16px;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
 
@@ -2154,6 +2868,10 @@ and (max-width: 992px) {
       .download{
         width: 180px;
       }
+
+      a.reference {
+        font-size: 14px;
+    }
        /***FOOTER***/
 }
 
@@ -2286,10 +3004,69 @@ p.main-descp{
 }
 
 
-
-
-
 /***BLOCKS***/
+
+
+/*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp{
+    font-size: 18px;
+    padding-left: 80px;
+  }
+
+  .slick-itm{
+    width: 20%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: -10%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+  }
+
+
+  .tabitem-text {
+    margin-left: 40px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+  .price-list{
+    background-image: url(../img/price-banner-med.jpg);
+  }
+  .price-small{
+    width: 90%;
+  }
+
+  .price-item {
+    width: 80%;
+    font-size: 16px;
+
+}
+
+.price-item a {
+  font-size: 25px;
+}
+
+a#price-btn{
+  font-size: 20px;
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+
+
 
      /***FOOTER***/
      .footer{
@@ -2311,7 +3088,7 @@ p.main-descp{
       .footer .footer-center{
         width: 35%;
         margin-left: -50px;
-        margin-top: 20px;
+        margin-top: 0px;
       }
       
       .footer .footer-right{
@@ -2344,6 +3121,10 @@ p.main-descp{
       .download{
         width: 180px;
       }
+
+      a.reference {
+        font-size: 14px;
+    }
        /***FOOTER***/
 }
 
@@ -2421,6 +3202,53 @@ and (max-width: 1366px) {
     font-size: 30px;
   }
   /*****MAIN*****/
+
+
+/*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp{
+    font-size: 18px;
+    padding-left: 140px;
+  }
+
+  .slick-itm{
+    width: 20%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: -40%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+  }
+
+
+  .tabitem-text {
+    margin-left: 80px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+
+  .price-item {
+    width: 80%;
+    font-size: 18px;
+
+}
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+
 
 
     /***FOOTER***/
@@ -2507,6 +3335,48 @@ and (max-width: 1440px) {
   }
   /*****MAIN*****/
 
+
+ /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp{
+    font-size: 22px;
+  }
+
+  .slick-itm{
+    width: 20%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: -40%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+  }
+
+
+  .tabitem-text {
+    margin-left: 80px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+
+  .main-head{
+    margin-top: 50px;
+  }
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+
+
+
+
   
     /***FOOTER***/
     .footer .footer-left{
@@ -2559,6 +3429,46 @@ and (max-width: 1652px) {
   }
 
   /*****MAIN*****/
+
+
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  p.main-descp{
+    font-size: 22px;
+  }
+
+  .slick-itm{
+    width: 20%;
+    height: 100px;
+  }
+
+  .tooltiptext{
+    left: -40%;
+  }
+
+  .tabcontent{
+    margin-top: 120px;
+    margin-bottom: 30px;
+  }
+
+
+  .tabitem-text {
+    margin-left: 80px;
+  }
+
+  .main-head p{
+    width: 90%;
+  }
+.main-head{
+    margin-top: 50px;
+  }
+
+
+
+   /*****MOTORKY*****/
+  /*****MOTORKY*****/
+  /*****MOTORKY*****/
 
 
     /***FOOTER***/
