@@ -277,7 +277,7 @@ body{
 
 .hero img{
   width: 15%;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 
@@ -286,46 +286,47 @@ body{
 }
 
 .logo-name{
-  font-size: 12px;
-  padding-top: 0px;
+  font-size: 11px;
+  padding-top: 25px;
 }
 
 span{
   padding:0;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 span.toggle-btn{
   float: right;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 
-.toggle-btn{
-  width: 180px;
-}
-
-.toggle-btn img{
-  width: 15%;
+.toggle-btn {
+  width: 80px;
+  margin-right: 0px;
 }
 
 .main-headline{
   margin-top: 10%;
-  margin-left: 20px;
-  padding: 40px;
+  margin-left: 40px;
   width: 80%;
+  padding: 0px;
 }
 
 h1.headline{
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 35px;
+  line-height: 50px;
+  filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
+  margin-bottom: 20px;
 }
 
 a.headline-btn{
-  font-size: 18px;
+  font-size: 14px;
   padding: 10px 20px;
   text-decoration: none;
   color: black;
+
 }
+
 
 .devider1{
   height: 40px;
@@ -538,56 +539,56 @@ body{
 
 .hero img{
   width: 15%;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 
 .logo img{
-  margin-left: 0px;
+  margin-left: 10px;
 }
 
 .logo-name{
-  font-size: 12px;
+  font-size: 11px;
+  padding-top: 25px;
 }
 
 span{
   padding:0;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 span.toggle-btn{
   float: right;
-  margin-top: 15px;
+  margin-top: 20px;
+}
+
+.toggle-btn {
+  width: 80px;
+  margin-right: 0px;
 }
 
 .main-headline{
-  margin-top: 40%;
-  margin-left: 0px;
+  margin-top: 15%;
+  margin-left: 30px;
   width: 80%;
   padding: 40px;
 }
 
-.toggle-btn{
-  width: 180px;
-}
-
-.toggle-btn img{
-  width: 15%;
-}
-
-
 h1.headline{
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 35px;
+  line-height: 50px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
+  margin-bottom: 20px;
 }
 
 a.headline-btn{
-  font-size: 18px;
+  font-size: 14px;
   padding: 10px 20px;
   text-decoration: none;
   color: black;
+
 }
+
 
 .devider1{
   height: 20px;
@@ -630,7 +631,7 @@ h2.hash{
 
 .block-one h2{
   padding: 20px 40px;
-  font-size: 16px;
+  font-size: 14px;
 }
 
  /****IMAGE GALLERY****/
@@ -697,6 +698,18 @@ h3.name{
   width: 100%;
 }
 
+.person-social p{
+  font-size: 14px;
+}
+
+p.position{
+font-size: 12px;
+}
+
+a.person-social{
+  font-size: 22px;
+}
+
 img.partner-logo{
   width: 100%;
 }
@@ -751,10 +764,11 @@ left: 30%;
     line-height: 32px;
   }
   
-  .footer .footer-links a,
-  .footer .footer-center p,
+  .footer .footer-links a, 
+  .footer .footer-center p, 
+  .footer .gdpr span, 
   .download a{
-    font-size: 14px;
+    font-size: 12px;
   }
   
 
@@ -800,7 +814,7 @@ body{
 
 .hero img{
   width: 15%;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 
@@ -809,38 +823,45 @@ body{
 }
 
 .logo-name{
-  font-size: 25px;
-  padding-top: 10px;
+  font-size: 14px;
+  padding-top: 25px;
 }
 
 span{
   padding:0;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 span.toggle-btn{
   float: right;
-  margin-top: 15px;
+  margin-top: 25px;
+}
+
+.toggle-btn {
+  width: 100px;
+  margin-right: 0px;
 }
 
 .main-headline{
-  margin-top: 40%;
-  margin-left: 0px;
+  margin-top: 15%;
+  margin-left: 30px;
   width: 80%;
   padding: 40px;
 }
 
 h1.headline{
-  font-size: 40px;
+  font-size: 35px;
   line-height: 50px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
+  margin-bottom: 20px;
 }
 
 a.headline-btn{
-  font-size: 20px;
-  padding: 20px 30px;
+  font-size: 16px;
+  padding: 15px 25px;
   text-decoration: none;
   color: black;
+
 }
 
 .devider1{
@@ -858,7 +879,7 @@ a.headline-btn{
 }
 
 h2.hash{
-  font-size: 20px;
+  font-size: 18px;
   width: 80%;
   margin: 0 auto;
 
@@ -878,13 +899,13 @@ h2.hash{
 }
 
 .services p{
-  font-size: 18px;
+  font-size: 15px;
   padding: 20px 0 10px 0;
 }
 
 .block-one h2{
   padding: 30px 60px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
  /****IMAGE GALLERY****/
@@ -905,7 +926,7 @@ h2.hash{
 
 /***BLOCK-TWO****/
 .block-two h2{
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
 }
 
@@ -932,6 +953,13 @@ h3.name{
   flex-direction: column-reverse;
 }
 
+p.label, p.description{
+  font-size: 14px;
+}
+
+a.person-social{
+  font-size: 20px;
+}
 /* PARTNERS START */
 .partners{
   padding: 10px 0;
@@ -1051,7 +1079,7 @@ body{
 
 .hero img{
   width: 15%;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 
@@ -1060,8 +1088,8 @@ body{
 }
 
 .logo-name{
-  font-size: 25px;
-  padding-top: 10px;
+  font-size: 18px;
+  padding-top: 35px;
 }
 
 span{
@@ -1071,18 +1099,23 @@ span{
 
 span.toggle-btn{
   float: right;
-  margin-top: 15px;
+  margin-top: 25px;
+}
+
+.toggle-btn {
+  width: 120px;
+  margin-right: 10px;
 }
 
 .main-headline{
-  margin-top: 40%;
-  margin-left: 0px;
+  margin-top: 15%;
+  margin-left: 30px;
   width: 80%;
   padding: 40px;
 }
 
 h1.headline{
-  font-size: 40px;
+  font-size: 35px;
   line-height: 50px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
   margin-bottom: 20px;
@@ -1090,12 +1123,11 @@ h1.headline{
 
 a.headline-btn{
   font-size: 20px;
-  padding: 20px 30px;
+  padding: 15px 25px;
   text-decoration: none;
   color: black;
 
 }
-
 .devider1{
   height: 40px;
 }
@@ -1303,7 +1335,7 @@ body{
 
 .hero img{
   width: 15%;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 
@@ -1312,8 +1344,8 @@ body{
 }
 
 .logo-name{
-  font-size: 25px;
-  padding-top: 40px;
+  font-size: 18px;
+  padding-top: 35px;
 }
 
 span{
@@ -1323,33 +1355,38 @@ span{
 
 span.toggle-btn{
   float: right;
-  margin-top: 15px;
+  margin-top: 25px;
+}
+
+.toggle-btn {
+  width: 120px;
+  margin-right: 10px;
 }
 
 .main-headline{
-  margin-top: 28%;
+  margin-top: 15%;
   margin-left: 30px;
   width: 80%;
   padding: 40px;
 }
 
 h1.headline{
-  font-size: 50px;
-  line-height: 70px;
+  font-size: 35px;
+  line-height: 50px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
   margin-bottom: 20px;
 }
 
 a.headline-btn{
   font-size: 20px;
-  padding: 20px 30px;
+  padding: 15px 25px;
   text-decoration: none;
   color: black;
 
 }
 
 .devider1{
-  height: 40px;
+  height: 20px;
 }
 
 .social{
@@ -1389,7 +1426,7 @@ h2.hash{
 
 .block-one h2{
   padding: 30px 60px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
  /****IMAGE GALLERY****/
@@ -1423,7 +1460,7 @@ h2.block-three-headline {
 }
 
 .personal-info{
-  padding: 10px 30px;
+  padding: 10px 50px;
 }
 
 h3.name{
@@ -1433,7 +1470,7 @@ h3.name{
 }
 
 p.label, p.description{
-  font-size: 20px;
+  font-size: 16px;
 }
 
 #banik{
@@ -1560,8 +1597,8 @@ and (max-width: 834px) {
 }
 
 .hero img{
-  width: 15%;
-  margin-right: 10px;
+  width: 12%;
+  margin-right: 0px;
 }
 
 
@@ -1571,7 +1608,7 @@ and (max-width: 834px) {
 
 .logo-name{
   font-size: 25px;
-  padding-top: 15px;
+  padding-to5px;
 }
 
 span{
@@ -1582,25 +1619,30 @@ span{
 span.toggle-btn{
   float: right;
   margin-top: 15px;
+  width: 120px;
+}
+
+.toggle-btn{
+  margin-right: 10px;
 }
 
 .main-headline{
-  margin-top: 15%;
-  margin-left: 0px;
+  margin-top: 20%;
+  margin-left: 30px;
   width: 80%;
   padding: 40px;
 }
 
 h1.headline{
-  font-size: 40px;
-  line-height: 50px;
+  font-size: 55px;
+  line-height: 75px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
   margin-bottom: 20px;
 }
 
 a.headline-btn{
   font-size: 20px;
-  padding: 20px 30px;
+  padding: 15px 25px;
   text-decoration: none;
   color: black;
 
@@ -1680,8 +1722,8 @@ h2.block-three-headline {
   width: 100%;
 }
 
-.personal-info{
-  padding: 10px 30px;
+.personal-info {
+  padding: 10px 50px;
 }
 
 h3.name{
@@ -1702,6 +1744,9 @@ p.label, p.description{
 /* PARTNERS START */
 .partners{
   padding: 10px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .partners-item{
@@ -1709,20 +1754,23 @@ p.label, p.description{
 }
 
 .partners-item h3{
-  font-size: 40px;
-  padding: 0 30px;
+  font-size: 50px;
+  padding: 0;
   width: 100%;
+  margin-left: 70px;
 }
 
 img.partner-logo{
-  width: 100%;
+  width: 70%;
+  position: relative;
+  left: 15%;
 }
 
 img#uax{
-  width: 40%;
-  margin: 0 auto;
+width: 30%;
+margin: 0 auto;
 position: relative;
-left: 30%;
+left: 35%;
 }
     /***FOOTER***/
     .footer .footer-logo,
@@ -2515,7 +2563,7 @@ and (max-width: 1652px) {
     .footer .footer-center p,
     .footer .gdpr span,
     .download a{
-    font-size: 14px;
+    font-size: 12px;
     }
   
   .footer .footer-logo{
