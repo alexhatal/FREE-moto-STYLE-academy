@@ -1,7 +1,7 @@
 @media only screen 
 and (min-width: 320px) 
 and (max-width: 359px) { 
-body{
+  body{
     background-image: url(../img/mainbg-smd.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -13,8 +13,8 @@ body{
 }
 
 .hero img{
-  width: 15%;
-  margin-right: 10px;
+  width:12%;
+  margin-right: 0px;
 }
 
 
@@ -23,51 +23,50 @@ body{
 }
 
 .logo-name{
-  font-size: 12px;
-  position: relative;
-  top: -10px;
-  width: 70%;
+  font-size: 10px;
+  padding-top: 15px;
 }
 
 span{
   padding:0;
-  font-size: 18px;
+  font-size: 12px;
 }
 
 span.toggle-btn{
   float: right;
-  margin-top: 15px;
+  margin-top: 12px;
 }
 
-
-.toggle-btn{
-  width: 120px;
+.toggle-btn {
+  width: 60px;
+  margin-right: 0px;
 }
 
 .main-headline{
   margin-top: 10%;
-  margin-left: 20px;
-  padding: 20px;
+  margin-left: 40px;
   width: 80%;
-
+  padding: 0px;
 }
 
 h1.headline{
-  font-size: 27px;
-  line-height: 40px;
-  margin-bottom: 10px;
+  font-size: 30px;
+  line-height: 50px;
+  filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
+  margin-bottom: 20px;
 }
-
 
 a.headline-btn{
-  font-size: 16px;
-  padding: 8px 18px;
+  font-size: 12px;
+  padding: 10px 20px;
   text-decoration: none;
   color: black;
+
 }
 
+
 .devider1{
-  height: 20px;
+  height: 40px;
 }
 
 .social{
@@ -107,7 +106,7 @@ h2.hash{
 
 .block-one h2{
   padding: 20px 40px;
-  font-size: 16px;
+  font-size: 14px;
 }
 
  /****IMAGE GALLERY****/
@@ -140,12 +139,21 @@ h2.block-three-headline {
   width: 100%;
 }
 
-p.label, p.description{
+.personal-info{
+  padding: 10px 30px;
+}
+
+
+.person-social p{
   font-size: 14px;
 }
 
-.personal-info{
-  padding: 10px 30px;
+p.position{
+font-size: 12px;
+}
+
+a.person-social{
+  font-size: 22px;
 }
 
 h3.name{
@@ -172,6 +180,10 @@ h3.name{
   font-size: 40px;
   padding: 0 30px;
   width: 100%;
+}
+
+p.label, p.description{
+  font-size: 14px;
 }
 
 img.partner-logo{
@@ -258,7 +270,6 @@ left: 30%;
     width: 180px;
   }
   /***FOOTER***/
-
 }
 
 @media only screen 
@@ -369,7 +380,7 @@ h2.hash{
 
 .block-one h2{
   padding: 20px 40px;
-  font-size: 16px;
+  font-size: 14px;
 }
 
  /****IMAGE GALLERY****/
@@ -404,6 +415,19 @@ h2.block-three-headline {
 
 .personal-info{
   padding: 10px 30px;
+}
+
+
+.person-social p{
+  font-size: 14px;
+}
+
+p.position{
+font-size: 12px;
+}
+
+a.person-social{
+  font-size: 22px;
 }
 
 h3.name{
