@@ -28,6 +28,7 @@ p.main-descp{
     font-size: 25px;
     color: #ffffff;
     padding-left: 125px;
+    width: 80%;
 }
 
 .service-select{
@@ -161,9 +162,23 @@ p.events {
     font-weight: bolder;
 }
 
-p.event{
+ul.event{
     margin-bottom: 40px;
+    font-size: 15px;
+    margin-left: 80px;
+      list-style: none;
 }
+
+  ul li::before {
+      content: "\2023";
+      color: rgb(255, 137, 1);
+      font-size: 18px;
+      font-weight: bold;
+      display: inline-block; 
+      width: 2em;
+      margin-left: -1em;
+    }
+    
 .blockthree-item a{
 
     margin-left: 100px;
@@ -233,7 +248,7 @@ p.four-one {
 }
 
 .gallery-item{
-    width: 45%;
+    width: 25%;
     
 }
 
@@ -294,20 +309,20 @@ p.four-one {
 }
 
 /****BLOCKSIX****/
-.blocksix{
+.blocksix, .blocknine{
     text-align: center;
 }
 
-.blocksix-item{
+.blocksix-item, .blocknine-item{
     padding: 50px;
 }
 
-.blocksix-item h3{
+.blocksix-item h3, .blocknine-item h3{
     width: 70%;
     margin: 0 auto;
 }
 
-.blocksix a#sell{
+.blocksix a#sell, .blocknine a#sell{
     background-color:rgb(255, 137, 1);
     color: #ffffff;
     padding: 20px;
@@ -322,6 +337,10 @@ p.four-one {
 
 .blocksix a#sell:hover{
     border-radius: 0 50px;
+}
+
+.blocknine a#sell:hover{
+  border-radius: 0 50px;
 }
 
 /****BLOCKSEVEN****/
@@ -359,7 +378,7 @@ p.four-one {
 .blockeight p{
     font-size: 40px;
     width: 75%;
-    margin: 0 auto;
+    margin: 50px auto;
     font-weight: bolder;
     color: rgb(255, 137, 1);
 }
@@ -880,6 +899,64 @@ select{
     border: none;
     border-radius: 50px;
     filter: drop-shadow(0 0 0.2rem rgb(197, 197, 197));
+}
+
+
+/****BLOCK-THREE*****/
+.person-container{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.person-item{
+  width: 50%;
+}
+
+.personal-info{
+  padding-left: 130px;
+  padding-right: 50px;
+}
+
+p.label{
+  font-size: 20px;
+  font-weight: bolder;
+  line-height: 1.8;
+  padding: 10px 0;
+}
+
+p.description{
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+h3.name{
+  font-size: 60px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.person-item img{
+  width: 100%;
+}
+
+.person-social{
+  line-height: 1.5;
+}
+
+p.position{
+  font-size: 14px;
+}
+
+a.person-social{
+  font-size: 30px;
+  padding: 0 15px 0 0;
+  color: rgb(255, 137, 1);
+}
+
+a.person-social i:hover{
+  font-size: 35px;
+  text-shadow: rgb(163, 163, 163);
 }
 
 /****KONTAKT****/

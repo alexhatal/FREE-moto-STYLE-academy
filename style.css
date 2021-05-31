@@ -378,70 +378,16 @@ a{
 
 h2.block-three-headline{
   text-align: center;
-  font-size: 50px;
+  font-size: 80px;
+  font-weight: bold;
   padding-bottom: 40px;
 }
 
-/****BLOCK-THREE*****/
-.person-container{
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-}
 
-.person-item{
-  width: 50%;
-}
-
-.personal-info{
-  padding-left: 130px;
-  padding-right: 50px;
-}
-
-p.label{
-  font-size: 20px;
-  font-weight: bolder;
-  line-height: 1.8;
-  padding: 10px 0;
-}
-
-p.description{
-  font-size: 18px;
-  line-height: 1.6;
-}
-
-h3.name{
-  font-size: 60px;
-  padding-top: 50px;
-  padding-bottom: 30px;
-}
-
-.person-item img{
-  width: 100%;
-}
-
-.person-social{
-  line-height: 1.5;
-}
-
-p.position{
-  font-size: 14px;
-}
-
-a.person-social{
-  font-size: 30px;
-  padding: 0 15px 0 0;
-  color: rgb(255, 137, 1);
-}
-
-a.person-social i:hover{
-  font-size: 35px;
-  text-shadow: rgb(163, 163, 163);
-}
 
 /* PARTNERS START */
 .partners{
-  display: inline-flex;
+  display: flex;
   flex-wrap: wrap;
   padding: 40px 0;
   align-items: center;
@@ -449,8 +395,7 @@ a.person-social i:hover{
 }
 
 .partners-item{
-  width: 30%;
-  justify-content: center;
+  width: 20%;
   margin: 0 auto;
 }
 
