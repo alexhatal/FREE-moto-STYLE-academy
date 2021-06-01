@@ -2777,9 +2777,7 @@ and (max-width: 992px) {
 .tabitem{
   width: 100%;
 }
-  .tabitem-text {
-    margin-left: 40px;
-  }
+
 
   .main-head p{
     width: 90%;

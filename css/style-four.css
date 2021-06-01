@@ -82,7 +82,7 @@ a.tablinks.active{
     display: none;
     margin-bottom: 120px;    
     flex-wrap: wrap;
-    flex-direction: column-reverse;
+    flex-direction: row;
 }
 
 .tabitem{
