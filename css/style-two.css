@@ -408,6 +408,9 @@ p.four-one {
 .contact-headline{
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
     padding-bottom: 50px;
   
 }
@@ -419,7 +422,6 @@ p.four-one {
 }
 
 .contact-item{
-    margin-top: 5%;
     width: 40%;
     margin: 5% auto 0 auto;
 }
@@ -435,7 +437,7 @@ p.four-one {
 
 #contact-info{
     background-color: rgb(41, 41, 41, 0.5);
-    padding: 30px 50px;
+    padding: 40px 70px;
     color: #ffffff;
 }
 
