@@ -107,7 +107,7 @@ a{
     /****LOGO***/
 
     .hero{
-        margin: 60px 30px 0 0;
+        margin: 20px 30px 0 0;
     }
     .logo{
         display: inline;
@@ -117,31 +117,26 @@ a{
         float: left;
         margin-left: 20px;
       }
-  
-      .logo-name{
-        color: #ffffff;
-        font-size: 20px;
-        padding-top: 23px;
+
+      .logo img:hover{
+ filter: drop-shadow(0px 0px 5px rgb(255, 137, 1));
       }
 
-      .logo-name:hover{
-        color:rgb(255, 137, 1);
-      }
 
       .toggle-btn{
-        width: 180px;
-        margin-right: 50px;
+        width: 140px;
+        margin-top: 30px;
         }
 
         .toggle-btn img{
-          width: 20%;
+          width: 25%;
 
           }
 
     /***MAIN HEADLINE****/
 
     .main-headline{
-        margin-top: 10%;
+        margin-top: 15%;
         margin-left: 120px;
   
         
@@ -445,7 +440,7 @@ h2.block-three-headline{
 }
 
 .footer img{
-  width: 50%;
+  width: 70%;
   margin-left: 20px;
 }
 
@@ -602,6 +597,11 @@ a.reference{
 a.reference:hover{
   color: #ff225c;
   font-weight: bolder;
+}
+
+p.location{
+  color: rgb(255, 137, 1) ;
+  font-size: 14px;
 }
 /* FOOTER END */
 

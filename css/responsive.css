@@ -479,7 +479,7 @@ and (max-width: 392px) {
   }
 
   .service-head h2{
-    font-size: 35px;
+    font-size: 30px;
   }
   
   /***MAIN***/
@@ -493,25 +493,24 @@ p{
   margin-bottom: 40px;
 }
 
-
-  .blockone{
+.blockone{
     margin-top: 20px;
   }
-  .blockone-item {
+
+.blockone-item {
     width: 100%;
     margin: 0 auto;
     padding: 0 40px;
   }
 
-
-
-  .blockone-item img{
+.blockone-item img{
     width: 80%;
   }
   
   .blocktwo{
     margin-top: 20px;
   }
+
   .blocktwo-item {
     width: 90%;
     margin-top: 50px;
@@ -544,10 +543,15 @@ p{
     margin-top: 30px;
   }
   
+.blockthree-item h3{
+  font-size: 18px;
+}
+
   .blockthree-item h3, 
   .blockthree-item p{
     width: 80%;
     margin-left: 50px;
+
   }
 
   .blockthree-item a{
@@ -560,6 +564,15 @@ p{
     width: 30%;
     margin-left: 0px;
   }
+
+ul.event {
+  margin-top: 0;
+    margin-bottom: 40px;
+    font-size: 10px;
+    margin-left: 20px;
+    width: 80%;
+}
+
 
   .pics{
    margin-left: 25px;
