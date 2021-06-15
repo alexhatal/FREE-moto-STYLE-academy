@@ -38,7 +38,7 @@ p.main-descp{
 h1.bazar-headline {
     font-size: 120px;
     color: #ffffff;
-    margin-top: 100px;
+    margin-top: 0px;
 }
 
 p.bazar-descp{
@@ -46,7 +46,6 @@ p.bazar-descp{
     color: rgb(255, 137, 1);
     width: 60%;
     margin: 0 auto;
-   
 }
 
 .bazar-container{
@@ -54,15 +53,17 @@ p.bazar-descp{
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
+    align-items: center;
+
 }
 
 .baz-item{
-    width: 15%;
-    height: 500px;
+    min-height:400px;
+    margin: 0 30px;
+    margin-bottom: 50px;
     justify-content: center;
-    margin: 0 50px;
 }
 
 .card {
@@ -200,6 +201,10 @@ h3.moto-name {
     padding-left: 150px;
 }
 
+.news-descp p{
+    width: 150%;
+  }
+
 .news-item img{
     filter: drop-shadow(0px 5px 10px rgb(88, 88, 88));
 }
@@ -241,11 +246,7 @@ h3.moto-name {
       font-weight: normal;
   }
 
-  .article{
-    width: 15%;
-    justify-content: center;
-    margin: 0 50px;
-  }
+ 
 
   .imgBx p{
       font-size: 14px;
@@ -266,7 +267,7 @@ background-image: url(../img/cal-ban.jpg);
 
 .cal-card{
     position: absolute;
-    top: 40%;
+    top: 30%;
     width: 80%;
 }
 

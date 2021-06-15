@@ -7,38 +7,22 @@ and (max-width: 359px) {
     background-image: url(../img/banner-bg-sm.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 20px;
+    margin-left: 0px;
+    width: 50%;
   }
   
-  .logo-name{
-    font-size: 10px;
-    padding-top: 10px;
+  .toggle-btn {
+    width: 90px;
+    margin-top: 0px;
+  }
+  
+  .toggle-btn img {
+    width: 18%;
   }
   
   span{
-    padding:0;
-    left: 10px;
-    font-size: 16px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
-    margin-top: 5px;
-  }
-  
-  .toggle-btn{
-    width: 80px;
-    margin-right: 10px;
+    font-size: 15px;
   }
 
   .main-headline{
@@ -50,6 +34,7 @@ and (max-width: 359px) {
 
   h1.main-headline{
     font-size: 30px;
+    margin-top: -15%;
   }
   
   
@@ -213,7 +198,7 @@ p{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
   h1.main-headline{
-    margin-top: 15%;
+    margin-top: -20%;
   }
 
   p.main-descp {
@@ -416,38 +401,22 @@ and (max-width: 392px) {
     background-image: url(../img/banner-bg-sm.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 20px;
+    margin-left: 0px;
+    width: 50%;
   }
   
-  .logo-name{
-    font-size: 10px;
-    padding-top: 10px;
+  .toggle-btn {
+    width: 90px;
+    margin-top: 0px;
+  }
+  
+  .toggle-btn img {
+    width: 18%;
   }
   
   span{
-    padding:0;
-    left: 10px;
-    font-size: 16px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
-    margin-top: 5px;
-  }
-  
-  .toggle-btn{
-    width: 80px;
-    margin-right: 10px;
+    font-size: 15px;
   }
 
   .main-headline{
@@ -590,6 +559,10 @@ ul.event {
     padding: 0;
   }
 
+  .gallery-item{
+    width: 100%;
+  }
+
   .blockfive{
     margin-top: 20px;
   }
@@ -601,9 +574,13 @@ ul.event {
     width: 85%;
 }
 
-  .blocksix-item h3{
+.blocksix-item, .blocknine-item{
+  padding: 20px 50px;
+}
+
+  .blocksix-item h3, .blocknine-item h3{
     width: 90%;
-    font-size: 18px;
+    font-size: 15px;
   }
   
   .blockseven-item{
@@ -624,7 +601,8 @@ ul.event {
 }
 
   .blockeight p{
-    font-size: 25px;
+    font-size: 20px;
+    margin: 40px 50px 10px 50px;
   }
   
   
@@ -636,7 +614,7 @@ ul.event {
   /*****MOTORKY*****/
   /*****MOTORKY*****/
   h1.main-headline{
-    margin-top: 15%;
+    margin-top: -20%;
   }
 
   p.main-descp {
@@ -841,45 +819,29 @@ and (max-width: 432px) {
     background-image: url(../img/banner-bg-sm.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 30px;
+    margin-left: 0px;
+    width: 60%;
   }
   
-  .logo-name{
-    font-size: 11px;
-    padding-top: 20px;
-  }
-  
-  span{
-    padding:0;
-    left: 10px;
-    font-size: 18px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
+  .toggle-btn {
+    width: 100px;
     margin-top: 10px;
   }
   
-  .toggle-btn{
-    width: 120px;
-    margin-right: 10px;
+  .toggle-btn img {
+    width: 20%;
+  }
+  
+  span{
+    font-size: 17px;
   }
 
   .main-headline{
-    margin-top: 3%;
+    margin-top: 0%;
     margin-left: 30px;
     width: 80%;
-    padding: 20px 20px 0 20px;
+    padding: 0px 20px 0 20px;
   }
 
   h1.main-headline{
@@ -1002,6 +964,10 @@ p{
     padding: 0;
   }
 
+  .gallery-item{
+    width: 100%;
+  }
+
   .blockfive{
     margin-top: 20px;
   }
@@ -1013,7 +979,7 @@ p{
     width: 85%;
 }
 
-  .blocksix-item h3{
+  .blocksix-item h3, .blocknine-item h3{
     width: 90%;
     font-size: 18px;
   }
@@ -1032,7 +998,8 @@ p{
 }
 
   .blockeight p{
-    font-size: 25px;
+    font-size: 22px;
+    margin: 50px auto 20px;
   }
   
   
@@ -1044,7 +1011,7 @@ p{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
   h1.main-headline{
-    margin-top: 15%;
+    margin-top: -15%;
   }
 
   p.main-descp {
@@ -1159,6 +1126,12 @@ a#price-btn{
   padding-bottom: 10px;
 }
 
+ul.event{
+  margin-left: 20px;
+}
+
+
+
    /*****MOTORKY*****/
   /*****MOTORKY*****/
   /*****MOTORKY*****/
@@ -1249,45 +1222,30 @@ and (max-width: 540px) {
     background-image: url(../img/banner-bg-sm.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 30px;
+    margin-left: 0px;
+    width: 50%;
   }
   
-  .logo-name{
-    font-size: 14px;
-    padding-top: 20px;
-  }
-  
-  span{
-    padding:0;
-    left: 10px;
-    font-size: 18px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
+  .toggle-btn {
+    width: 100px;
     margin-top: 10px;
   }
   
-  .toggle-btn{
-    width: 120px;
-    margin-right: 10px;
+  .toggle-btn img {
+    width: 20%;
   }
+  
+  span{
+    font-size: 17px;
+  }
+  
 
   .main-headline{
-    margin-top: 3%;
+    margin-top: 0%;
     margin-left: 30px;
     width: 80%;
-    padding: 20px 20px 0 20px;
+    padding: 0px 20px 0 20px;
   }
 
   h1.main-headline{
@@ -1410,6 +1368,10 @@ p{
     padding: 0;
   }
 
+  .gallery-item{
+    width: 100%;
+  }
+
   .blockfive{
     margin-top: 20px;
   }
@@ -1421,7 +1383,7 @@ p{
     width: 85%;
 }
 
-  .blocksix-item h3{
+  .blocksix-item h3, .blocknine-item h3{
     width: 90%;
     font-size: 18px;
   }
@@ -1443,6 +1405,10 @@ p{
     font-size: 25px;
   }
 
+  ul.event{
+    margin-left: 20px;
+  }
+
   /***BLOCKS***/
 
 
@@ -1451,7 +1417,7 @@ p{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
   h1.main-headline{
-    margin-top: 15%;
+    margin-top: 0%;
   }
 
   p.main-descp {
@@ -1630,59 +1596,43 @@ and (min-width: 541px)
 and (max-width: 599px) { 
 
   body{
-    background-image: url(../img/banner-bg-med.png);
+    background-image: url(../img/banner-bg-sm.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 30px;
+    margin-left: 0px;
+    width: 50%;
   }
   
-  .logo-name{
-    font-size: 18px;
-    padding-top: 20px;
-  }
-  
-  span{
-    padding:0;
-    left: 60px;
-    font-size: 22px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
+  .toggle-btn {
+    width: 110px;
     margin-top: 10px;
   }
   
-  .toggle-btn{
-    width: 120px;
-    margin-right: 10px;
+  .toggle-btn img {
+    width: 20%;
+  }
+  
+  span{
+    font-size: 20px;
   }
 
   .main-headline{
-    margin-top: 3%;
+    margin-top: 0%;
     margin-left: 50px;
     width: 80%;
     padding: 20px 20px 0 20px;
   }
 
   h1.main-headline{
-    font-size: 40px;
+    font-size: 55px;
   }
   
   
   p.main-descp{
     padding-left: 70px;
-    font-size: 16px;
-    width: 80%;
+    font-size: 15px;
+    width: 70%;
   }
 
   .service-select{
@@ -1795,6 +1745,13 @@ p{
     padding: 0;
   }
 
+  .gallery-item{
+    width: 45%;
+  }
+
+  ul.event{
+    margin-left: 30px;
+  }
   .blockfive{
     margin-top: 20px;
   }
@@ -1802,7 +1759,7 @@ p{
     width: 85%;
 }
 
-  .blocksix-item h3{
+  .blocksix-item h3, .blocknine-item h3{
     width: 90%;
     font-size: 18px;
   }
@@ -1908,6 +1865,87 @@ a#price-btn{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
+
+p.bazar-descp{
+font-size: 14px;
+width: 85%;
+margin-bottom: 60px;
+}
+
+
+
+h1#news-head{
+  font-size: 60px;
+  line-height: 1.6;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.news-descp p{
+font-size: 15px;
+}
+
+.newest h1 {
+  padding: 50px 50px 50px 30px;
+  font-size: 25px;
+  line-height: 1.6;
+  background-color: rgb(255,255,255,0.5);
+  border-radius: 80px 0 0 80px;
+
+
+
+}
+
+.news-descp {
+  padding-left: 0px;
+}
+
+.news-descp h2{
+  font-size: 25px;
+}
+
+.news-card {
+  width: 85%;
+  padding: 30px 30px 50px 30px;
+}
+
+.cal-card{
+top: 15%;
+}
+
+.news-item{
+  width: 100%;
+}
+
+.news-item img{
+  margin-top: 25px;
+}
+
+.news-descp p {
+  width: 100%;
+}
+
+.bazar-container{
+  width: 100%;
+}
+.cal-card h2 {
+  font-size: 30px;
+}
+
+a.cal-btn {
+color: #ffffff;
+padding: 20px 50px;
+font-size: 22px;
+}
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/  
 
     /***FOOTER***/
     .footer .footer-logo,
@@ -1994,45 +2032,29 @@ and (max-width: 768px) {
     background-image: url(../img/banner-bg-med.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 30px;
+    margin-left: 0px;
+    width: 50%;
   }
   
-  .logo-name{
-    font-size: 18px;
-    padding-top: 20px;
+  .toggle-btn {
+    width: 115px;
+    margin-top: 15px;
+  }
+  
+  .toggle-btn img {
+    width: 25%;
   }
   
   span{
-    padding:0;
-    left: 60px;
-    font-size: 22px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
-    margin-top: 10px;
-  }
-  
-  .toggle-btn{
-    width: 120px;
-    margin-right: 10px;
+    font-size: 20px;
   }
 
   .main-headline{
-    margin-top: 5%;
+    margin-top: -15%;
     margin-left: 50px;
     width: 80%;
-    padding: 20px 20px 0 20px;
+    padding: 0px 20px 0 20px;
   }
 
   h1.main-headline{
@@ -2058,7 +2080,9 @@ and (max-width: 768px) {
   }
   
   /***MAIN***/
-  
+  ul.event{
+    margin-left: 30px;
+  }
   /***BLOCKS***/
 p{
   font-size: 16px;
@@ -2146,11 +2170,15 @@ p{
     padding: 0;
   }
 
+  .gallery-item{
+    width: 45%;
+  }
+
   h4#five-descp {
     width: 85%;
 }
 
-  .blocksix-item h3{
+  .blocksix-item h3, .blocknine-item h3{
     font-size: 18px;
   }
   
@@ -2237,6 +2265,75 @@ a#price-btn{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+h1.bazar-headline {
+  font-size: 40px;
+  margin-top: -30px;
+}
+
+p.bazar-descp{
+font-size: 14px;
+width: 85%;
+margin-bottom: 70px;
+}
+
+.news-descp p{
+font-size: 15px;
+}
+
+.newest h1 {
+  padding: 0px 50px 50 30px;
+  font-size: 25px;
+}
+
+.news-descp {
+  padding-left: 0px;
+}
+
+.news-descp h2{
+  font-size: 25px;
+}
+
+.news-card {
+  width: 85%;
+  padding: 30px 30px 50px 30px;
+}
+
+.cal-card{
+top: 15%;
+}
+
+.news-item{
+  width: 100%;
+}
+
+.news-item img{
+  margin-top: 25px;
+}
+
+.news-descp p {
+  width: 100%;
+}
+
+.bazar-container{
+  width: 100%;
+}
+.cal-card h2 {
+  font-size: 30px;
+}
+
+a.cal-btn {
+color: #ffffff;
+padding: 20px 50px;
+font-size: 22px;
+}
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
 
     /***FOOTER***/
     .footer .footer-logo,
@@ -2322,45 +2419,29 @@ and (max-width: 834px) {
     background-image: url(../img/banner-bg-med.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 30px;
+    margin-left: 0px;
+    width: 40%;
   }
   
-  .logo-name{
-    font-size: 20px;
-    padding-top: 20px;
-  }
-  
-  span{
-    padding:0;
-    left: 60px;
-    font-size: 22px;
-  }
-  
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
+  .toggle-btn {
+    width: 120px;
     margin-top: 20px;
   }
   
-  .toggle-btn{
-    width: 120px;
-    margin-right: 10px;
+  .toggle-btn img {
+    width: 25%;
+  }
+  
+  span{
+    font-size: 20px;
   }
 
   .main-headline{
-    margin-top: 5%;
+    margin-top: -10%;
     margin-left: 50px;
     width: 80%;
-    padding: 20px 20px 0 20px;
+    padding: 00px 20px 0 20px;
   }
 
   h1.main-headline{
@@ -2463,8 +2544,13 @@ p{
     width: 330px;
     height: 250px;
   }
-  .blocksix-item h3{
-    font-size: 18px;
+
+  .gallery-item{
+    width: 45%;
+    padding: 0 5px;
+  }
+  .blocksix-item h3, .blocknine-item h3{
+    font-size: 20px;
   }
   
   .blockseven-item img {
@@ -2549,6 +2635,67 @@ a#price-btn{
   /*****MOTORKY*****/
 
 
+  /*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+h1.bazar-headline {
+  font-size: 55px;
+  margin-top: 0px;
+}
+
+p.bazar-descp{
+font-size: 16px;
+width: 80%;
+}
+
+.news-descp p{
+font-size: 15px;
+}
+
+.newest h1 {
+  padding: 0px 50px 50px 50px;
+  font-size: 30px;
+}
+
+.news-descp {
+  padding-left: 50px;
+}
+
+.news-descp h2{
+  font-size: 25px;
+}
+
+.news-card {
+  width: 85%;
+  padding: 30px 30px 50px 30px;
+}
+
+.cal-card{
+top: 15%;
+}
+
+.news-item img{
+  margin-top: 25px;
+}
+
+.bazar-container{
+  width: 100%;
+}
+.cal-card h2 {
+  font-size: 35px;
+}
+
+a.cal-btn {
+color: #ffffff;
+padding: 20px 50px;
+font-size: 22px;
+}
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
     /***FOOTER***/
     .footer .footer-logo,
 .footer .footer-left,
@@ -2632,45 +2779,30 @@ and (max-width: 992px) {
     background-image: url(../img/banner-bg-med.png);
   }
 
-  .hero {
-    margin: 20px 30px 0 0;
-  }
-  
   .logo img{
-    width: 10%;
-    margin-left: 30px;
+    margin-left: 0px;
+    width: 35%;
   }
   
-  .logo-name{
-    font-size: 20px;
-    padding-top: 20px;
+  .toggle-btn {
+    width: 130px;
+    margin-top: 15px;
+  }
+  
+  .toggle-btn img {
+    width: 23%;
   }
   
   span{
-    padding:0;
-    left: 60px;
-    font-size: 22px;
+    font-size: 20px;
   }
   
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
-    margin-top: 20px;
-  }
-  
-  .toggle-btn{
-    width: 120px;
-    margin-right: 10px;
-  }
 
   .main-headline{
-    margin-top: 5%;
+    margin-top: -5%;
     margin-left: 50px;
     width: 80%;
-    padding: 20px 20px 0 20px;
+    padding: 0px 20px 0 20px;
   }
 
   h1.main-headline{
@@ -2747,9 +2879,11 @@ and (max-width: 992px) {
   .gallery-item img{
     padding: 0;
   }
-  .blocksix-item h3{
-    font-size: 18px;
+
+  .gallery-item{
+    width: 45%;
   }
+
   
   .blockseven-item p{
     margin-top: 10%;
@@ -2826,6 +2960,65 @@ a#price-btn{
 
 
 
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+h1.bazar-headline {
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+p.bazar-descp{
+font-size: 18px;
+width: 70%;
+}
+
+.news-descp p{
+font-size: 15px;
+}
+
+.newest h1 {
+  padding: 0px 50px 50px 50px;
+  font-size: 35px;
+}
+
+.news-descp {
+  padding-left: 50px;
+}
+
+.news-descp h2{
+  font-size: 25px;
+}
+
+.news-card {
+  width: 85%;
+  padding: 30px 30px 50px 30px;
+}
+
+.cal-card{
+top: 15%;
+}
+
+.news-item img{
+  margin-top: 25px;
+}
+
+
+.cal-card h2 {
+  font-size: 35px;
+}
+
+a.cal-btn {
+color: #ffffff;
+padding: 20px 50px;
+font-size: 22px;
+}
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
 
      /***FOOTER***/
 
@@ -2892,44 +3085,24 @@ and (max-width: 1279px) {
 body{
   background-image: url(../img/banner-bg-med.png);
 }
-.hero {
-  margin: 20px 30px 0 0;
-}
-
 .logo img{
-  width: 10%;
-  margin-left: 30px;
+  margin-left: 0px;
+  width: 34%;
 }
 
-.logo-name{
-  font-size: 25px;
-  padding-top: 30px;
+.toggle-btn img {
+  width: 20%;
 }
 
 span{
-  padding:0;
-  left: 60px;
-  font-size: 30px;
-}
-
-span img{
-  width: 15%;
-}
-
-span.toggle-btn{
-  float: right;
-  margin-top: 20px;
-}
-
-.toggle-btn{
-  width: 130px;
+  font-size: 20px;
 }
 
 .main-headline{
-  margin-top: 5%;
+  margin-top: -3%;
   margin-left: 50px;
   width: 80%;
-  padding: 20px 20px 0 20px;
+  padding: 00px 20px 0 20px;
 }
 
 h1.headline{
@@ -3002,8 +3175,9 @@ p.main-descp{
 .gallery-item img{
   padding: 0;
 }
-.blocksix-item h3{
-  font-size: 18px;
+
+.gallery-item{
+  width: 45%;
 }
 
 .blockseven-item p{
@@ -3077,6 +3251,59 @@ a#price-btn{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+h1.bazar-headline {
+  font-size: 75px;
+  margin-top: 50px;
+}
+
+p.bazar-descp{
+font-size: 18px;
+width: 70%;
+}
+
+.news-descp p{
+font-size: 15px;
+}
+
+.newest h1 {
+  padding: 0px 50px 50px 50px;
+  font-size: 35px;
+}
+
+.news-descp {
+  padding-left: 50px;
+}
+
+.news-descp h2{
+  font-size: 30px;
+}
+
+.news-card {
+  padding: 30px 30px 50px 30px;
+}
+
+.cal-card{
+top: 12%;
+}
+
+.news-item img{
+  margin-top: 25px;
+}
+
+
+a.cal-btn {
+color: #ffffff;
+padding: 20px 50px;
+font-size: 22px;
+}
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
 
 
      /***FOOTER***/
@@ -3143,39 +3370,21 @@ a#price-btn{
 and (min-width: 1280px) 
 and (max-width: 1366px) {
 
-  
   .logo img{
-    margin-left: 50px;
-    width:7%;
-  }
-  
-  .logo-name{
-    font-size: 25px;
-    padding-top: 20px;
-  }
-  
-  .toggle-btn{
-  width: 150px;
-  margin-right: 20px;
-  }
-  
-  .toggle-btn img{
     width: 25%;
+    margin-left: 0px;
   }
-  span{
-    padding:0;
-    font-size: 25px;
-  }
-
   
-  span.toggle-btn{
-    float: right;
-    margin-top: 10px;
+  .toggle-btn img {
+    width: 22%;
   }
-
+  
+  span{
+    font-size: 22px;
+  }
   /*****MAIN*****/
   .main-headline{
-    margin-top: 3%;
+    margin-top: -3%;
   }
 
 
@@ -3220,7 +3429,6 @@ and (max-width: 1366px) {
   /*****MOTORKY*****/
   p.main-descp{
     font-size: 18px;
-    padding-left: 140px;
   }
 
   .slick-itm{
@@ -3261,6 +3469,45 @@ and (max-width: 1366px) {
   /*****MOTORKY*****/
 
 
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+h1.bazar-headline {
+  font-size: 70px;
+  margin-top: -40px;
+}
+
+p.bazar-descp{
+font-size: 18px;
+width: 70%;
+}
+
+.news-descp p{
+font-size: 15px;
+}
+
+.newest h1 {
+  padding: 0px 50px 50px 50px;
+  font-size: 45px;
+}
+
+.cal-card{
+top: 25%;
+}
+
+
+
+a.cal-btn {
+color: #ffffff;
+padding: 20px 50px;
+font-size: 22px;
+}
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
 
     /***FOOTER***/
     .footer .footer-left{
@@ -3278,40 +3525,27 @@ and (max-width: 1366px) {
 
 @media only screen 
 and (min-width: 1367px) 
-and (max-width: 1440px) {
+and (max-width: 1499px) {
 
   .logo img{
-    margin-left: 50px;
-    width:7%;
-  }
-  
-  .logo-name{
-    font-size: 25px;
-    padding-top: 20px;
+    margin-left: 0px;
+    width: 25%;
   }
   
   .toggle-btn{
-  width: 150px;
-  margin-right: 20px;
+    width: 160px;
+  }
+
+  .toggle-btn img {
+    width: 20%;
   }
   
-  .toggle-btn img{
-    width: 25%;
-  }
   span{
-    padding:0;
-    font-size: 25px;
+    font-size: 20px;
   }
-
-  
-  span.toggle-btn{
-    float: right;
-    margin-top: 10px;
-  }
-
   /*****MAIN*****/
   .main-headline{
-    margin-top: 3%;
+    margin-top: -3%;
   }
 
 
@@ -3385,7 +3619,42 @@ and (max-width: 1440px) {
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+  h1.bazar-headline {
+    font-size: 80px;
+    margin-top: -35px;
+}
 
+p.bazar-descp{
+  font-size: 18px;
+  width: 70%;
+}
+
+.news-descp p{
+  font-size: 16px;
+}
+
+.newest h1 {
+  padding: 0px 80px 30px 80px;
+}
+
+.cal-card{
+  top: 25%;
+}
+
+
+a.cal-btn {
+  color: #ffffff;
+  padding: 20px 50px;
+  font-size: 22px;
+}
+
+
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
 
 
   
@@ -3403,40 +3672,23 @@ and (max-width: 1440px) {
 and (min-width: 1500px) 
 and (max-width: 1652px) {
 
-  
   .logo img{
-    margin-left: 50px;
-  }
-  
-  .logo-name{
-    font-size: 25px;
-    padding-top: 20px;
-  }
-  
-  .toggle-btn{
-  width: 180px;
-  }
-  
-  .toggle-btn img{
+    margin-left: 0px;
     width: 25%;
   }
+
+  .toggle-btn img {
+    width: 20%;
+}
+  
   span{
-    padding:0;
-    font-size: 30px;
+    font-size: 20px;
   }
   
-  span img{
-    width: 15%;
-  }
-  
-  span.toggle-btn{
-    float: right;
-    margin-top: 30px;
-  }
 
   /*****MAIN*****/
   .main-headline{
-    margin-top: 3%;
+    margin-top: -4%;
   }
 
   /*****MAIN*****/
@@ -3480,6 +3732,34 @@ and (max-width: 1652px) {
    /*****MOTORKY*****/
   /*****MOTORKY*****/
   /*****MOTORKY*****/
+
+   /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  h1.bazar-headline {
+    font-size: 85px;
+}
+
+.baz-item{
+  margin:0 10px 60px 0;
+}
+
+p.bazar-descp{
+  font-size: 18px;
+}
+
+.news-descp p{
+  font-size: 16px;
+}
+
+.cal-card{
+  top: 20%;
+}
+
+
+     /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
 
 
     /***FOOTER***/

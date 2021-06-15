@@ -242,7 +242,6 @@ p.four-one {
 .gallery{
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
     padding: 4% 2%;
    justify-content: center;
 }
@@ -649,7 +648,6 @@ i#form-icon {
   
   button i {
     top: 0;
-    margin-right: 15px;
   }
   
   i.active {
