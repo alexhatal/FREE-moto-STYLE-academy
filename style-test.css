@@ -1,69 +1,90 @@
-/*****NOVINKY*****/
-/*****NOVINKY*****/
-/*****NOVINKY*****/
-h1.bazar-headline {
-  font-size: 40px;
-  margin-top: -30px;
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+  padding-bottom: 0;
 }
 
-p.bazar-descp{
-font-size: 14px;
-width: 85%;
-margin-bottom: 70px;
+#contact-info{
+  width: 90%;
+  margin-top: -220px;
+  background-color: rgb(41, 41, 41, 0.01);
 }
 
-.news-descp p{
-font-size: 15px;
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.2;
+ left: 50%;
 }
 
-.newest h1 {
-  padding: 0px 50px 50 30px;
-  font-size: 25px;
+.contact-item h2{
+  font-size: 14px;
 }
 
-.news-descp {
-  padding-left: 0px;
+.contact-item p, #contact-info a{
+  font-size: 10px;
 }
 
-.news-descp h2{
-  font-size: 25px;
+.info-social{
+  height: 120px;
 }
 
-.news-card {
-  width: 85%;
-  padding: 30px 30px 50px 30px;
+.info-social a i{
+  font-size: 18px;
 }
 
-.cal-card{
-top: 15%;
+h3.info-hash{
+  font-size: 13px;
+  color: black;
 }
 
-.news-item{
-  width: 100%;
+.form-headline{
+  font-size: 18px;
+  padding: 0;
+  line-height: 1.6;
 }
 
-.news-item img{
-  margin-top: 25px;
-}
-
-.news-descp p {
-  width: 100%;
-}
-
-.bazar-container{
-  width: 100%;
-}
-.cal-card h2 {
+#weare h2{
   font-size: 30px;
 }
 
-a.cal-btn {
-color: #ffffff;
-padding: 20px 50px;
-font-size: 22px;
+.personal-info{
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+h3.name{
+  font-size: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 12px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 90%;
 }
 
 
-/*****NOVINKY*****/
-/*****NOVINKY*****/
-/*****NOVINKY*****/
+label{
+  font-size: 16px;
+}
+i#form-icon{
+  font-size: 30px;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/

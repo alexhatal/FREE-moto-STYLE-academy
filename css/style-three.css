@@ -300,3 +300,11 @@ background-image: url(../img/cal-ban.jpg);
     padding: 30px 60px;
     font-size: 25px;
   }
+
+  .news-social a{
+      color: rgb(255, 137, 1);
+  }
+
+  .news-social a:hover{
+    color: #ffffff;
+}

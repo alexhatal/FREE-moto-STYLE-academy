@@ -316,6 +316,213 @@ a#price-btn{
   /*****MOTORKY*****/
   /*****MOTORKY*****/  
 
+ /*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
+.hero{
+  height: 60px;
+}
+p.bazar-descp{
+  font-size: 14px;
+  width: 85%;
+  margin-bottom: 20px;
+  }
+  
+  
+  
+  h1#news-head{
+    font-size: 35px;
+    line-height: 1.5;
+    margin-top: -20px;
+    margin-bottom: 30px;
+  }
+  
+  .news-descp p{
+  font-size: 12px;
+  }
+  
+  .newest h1 {
+    padding: 50px 50px 50px 30px;
+    font-size: 20px;
+    line-height: 1.6;
+    background-color: rgb(255,255,255,0.5);
+    border-radius: 80px 0 0 80px;
+  
+  }
+  
+  .sub-head h2{
+    font-size: 18px;
+  }
+
+  .news-descp {
+    padding-left: 0px;
+  }
+  
+  .news-descp h2{
+    font-size: 25px;
+  }
+  
+  .news-card {
+    width: 85%;
+    padding: 30px 30px 50px 30px;
+  }
+  
+  .cal-card{
+  top: 15%;
+  }
+  
+  .news-item{
+    width: 100%;
+  }
+  
+  .news-item img{
+    margin-top: 25px;
+  }
+  
+  .news-descp p {
+    width: 100%;
+  }
+  
+  .bazar-container{
+    width: 100%;
+  }
+  .cal-card h2 {
+    font-size: 23px;
+    line-height: 2;
+  }
+  
+  a.cal-btn {
+  color: #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+  }
+  
+  
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/  
+
+  /*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -60px;
+  font-size: 45px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+p#baz-des{
+  margin-bottom: 0;
+  font-size: 12px;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/ 
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+  padding-bottom: 0;
+}
+
+#contact-info{
+  width: 90%;
+  margin-top: -180px;
+  background-color: rgb(41, 41, 41, 0.01);
+  padding: 20px 40px;
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.2;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 14px;
+}
+
+.contact-item p, #contact-info a{
+  font-size: 10px;
+}
+
+.info-social{
+  height: 120px;
+}
+
+.info-social a i{
+  font-size: 18px;
+}
+
+h3.info-hash{
+  font-size: 13px;
+  color: black;
+}
+
+.form-headline{
+  font-size: 16px;
+  padding: 0;
+  line-height: 1.6;
+}
+
+#weare h2{
+  font-size: 25px;
+}
+
+.personal-info{
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+h3.name{
+  font-size: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 12px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 90%;
+}
+
+
+label{
+  font-size: 14px;
+  padding-top: 8px;
+}
+i#form-icon{
+  font-size: 20px;
+}
+
+input#a{
+  font-size: 12px;
+}
+
+select{
+  font-size: 14px;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
     /***FOOTER***/
     .footer .footer-logo,
 .footer .footer-left,
@@ -733,6 +940,201 @@ a#price-btn{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
+ /*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
+.hero{
+  height: 80px;
+}
+p.bazar-descp{
+  font-size: 14px;
+  width: 85%;
+  margin-bottom: 20px;
+  }
+  
+  
+  
+  h1#news-head{
+    font-size: 40px;
+    line-height: 1.5;
+    margin-top: -20px;
+    margin-bottom: 30px;
+  }
+  
+  .news-descp p{
+  font-size: 12px;
+  }
+  
+  .newest h1 {
+    padding: 50px 50px 50px 30px;
+    font-size: 20px;
+    line-height: 1.6;
+    background-color: rgb(255,255,255,0.5);
+    border-radius: 80px 0 0 80px;
+  
+  }
+  
+  .sub-head h2{
+    font-size: 18px;
+  }
+
+  .news-descp {
+    padding-left: 0px;
+  }
+  
+  .news-descp h2{
+    font-size: 25px;
+  }
+  
+  .news-card {
+    width: 85%;
+    padding: 30px 30px 50px 30px;
+  }
+  
+  .cal-card{
+  top: 15%;
+  }
+  
+  .news-item{
+    width: 100%;
+  }
+  
+  .news-item img{
+    margin-top: 25px;
+  }
+  
+  .news-descp p {
+    width: 100%;
+  }
+  
+  .bazar-container{
+    width: 100%;
+  }
+  .cal-card h2 {
+    font-size: 25px;
+    line-height: 2;
+  }
+  
+  a.cal-btn {
+  color: #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+  }
+  
+  
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/  
+
+ /*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -60px;
+  font-size: 55px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+p#baz-des{
+  margin-bottom: 0;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/  
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+  padding-bottom: 0;
+}
+
+#contact-info{
+  width: 90%;
+  margin-top: -220px;
+  background-color: rgb(41, 41, 41, 0.01);
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.2;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 14px;
+}
+
+.contact-item p, #contact-info a{
+  font-size: 10px;
+}
+
+.info-social{
+  height: 120px;
+}
+
+.info-social a i{
+  font-size: 18px;
+}
+
+h3.info-hash{
+  font-size: 13px;
+  color: black;
+}
+
+.form-headline{
+  font-size: 18px;
+  padding: 0;
+  line-height: 1.6;
+}
+
+#weare h2{
+  font-size: 30px;
+}
+
+.personal-info{
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+h3.name{
+  font-size: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 12px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 90%;
+}
+
+
+label{
+  font-size: 16px;
+}
+i#form-icon{
+  font-size: 30px;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
 
     /***FOOTER***/
     .footer .footer-logo,
@@ -1137,6 +1539,196 @@ ul.event{
   /*****MOTORKY*****/
 
 
+ /*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
+
+p.bazar-descp{
+  font-size: 14px;
+  width: 85%;
+  margin-bottom: 20px;
+  }
+  
+  
+  
+  h1#news-head{
+    font-size: 40px;
+    line-height: 1.5;
+    margin-top: -20px;
+    margin-bottom: 40px;
+  }
+  
+  .news-descp p{
+  font-size: 15px;
+  }
+  
+  .newest h1 {
+    padding: 50px 50px 50px 30px;
+    font-size: 25px;
+    line-height: 1.6;
+    background-color: rgb(255,255,255,0.5);
+    border-radius: 80px 0 0 80px;
+  
+  
+  
+  }
+  
+  .news-descp {
+    padding-left: 0px;
+  }
+  
+  .news-descp h2{
+    font-size: 25px;
+  }
+  
+  .news-card {
+    width: 85%;
+    padding: 30px 30px 50px 30px;
+  }
+  
+  .cal-card{
+  top: 15%;
+  }
+  
+  .news-item{
+    width: 100%;
+  }
+  
+  .news-item img{
+    margin-top: 25px;
+  }
+  
+  .news-descp p {
+    width: 100%;
+  }
+  
+  .bazar-container{
+    width: 100%;
+  }
+  .cal-card h2 {
+    font-size: 25px;
+  }
+  
+  a.cal-btn {
+  color: #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+  }
+  
+  
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/   
+
+
+ /*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -60px;
+  font-size: 55px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+p#baz-des{
+  margin-bottom: 0;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/ 
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+}
+
+#contact-info{
+  width: 90%;
+  margin-top: -280px;
+  background-color: rgb(41, 41, 41, 0.01);
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.2;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 14px;
+}
+
+.contact-item p, #contact-info a{
+  font-size: 10px;
+}
+
+.info-social{
+  height: 70px;
+}
+
+.info-social a i{
+  font-size: 18px;
+}
+
+h3.info-hash{
+  font-size: 14px;
+}
+
+.form-headline{
+  font-size: 18px;
+  padding: 0;
+  line-height: 1.6;
+}
+
+#weare h2{
+  font-size: 35px;
+}
+
+.personal-info{
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+h3.name{
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 14px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 90%;
+}
+
+
+label{
+  font-size: 16px;
+}
+i#form-icon{
+  font-size: 30px;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
     /***FOOTER***/
     .footer .footer-logo,
 .footer .footer-left,
@@ -1512,6 +2104,187 @@ a#price-btn{
    /*****MOTORKY*****/
   /*****MOTORKY*****/
   /*****MOTORKY*****/
+
+
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+/*****NOVINKY*****/
+
+
+p.bazar-descp{
+  font-size: 14px;
+  width: 85%;
+  margin-bottom: 60px;
+  }
+  
+  
+  
+  h1#news-head{
+    font-size: 55px;
+    line-height: 1.5;
+    margin-top: -20px;
+    margin-bottom: 40px;
+  }
+  
+  .news-descp p{
+  font-size: 15px;
+  }
+  
+  .newest h1 {
+    padding: 50px 50px 50px 30px;
+    font-size: 25px;
+    line-height: 1.6;
+    background-color: rgb(255,255,255,0.5);
+    border-radius: 80px 0 0 80px;
+  
+  
+  
+  }
+  
+  .news-descp {
+    padding-left: 0px;
+  }
+  
+  .news-descp h2{
+    font-size: 25px;
+  }
+  
+  .news-card {
+    width: 85%;
+    padding: 30px 30px 50px 30px;
+  }
+  
+  .cal-card{
+  top: 15%;
+  }
+  
+  .news-item{
+    width: 100%;
+  }
+  
+  .news-item img{
+    margin-top: 25px;
+  }
+  
+  .news-descp p {
+    width: 100%;
+  }
+  
+  .bazar-container{
+    width: 100%;
+  }
+  .cal-card h2 {
+    font-size: 27px;
+  }
+  
+  a.cal-btn {
+  color: #ffffff;
+  padding: 20px 50px;
+  font-size: 22px;
+  }
+  
+  
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/
+  /*****NOVINKY*****/  
+ 
+  
+ /*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -50px;
+  font-size: 60px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+p#baz-des{
+  margin-bottom: 0;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/ 
+
+
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+}
+
+#contact-info{
+  width: 90%;
+  margin-top: -300px;
+  background-color: rgb(41, 41, 41, 0.01);
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.2;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 16px;
+}
+
+.contact-item p, #contact-info a{
+  font-size: 12px;
+}
+
+.info-social a i{
+  font-size: 20px;
+}
+
+h3.info-hash{
+  font-size: 16px;
+}
+
+.form-headline{
+  font-size: 18px;
+  padding: 0;
+  line-height: 1.6;
+}
+
+#weare h2{
+  font-size: 35px;
+}
+
+.personal-info{
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+h3.name{
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 14px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 80%;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
 
 
     /***FOOTER***/
@@ -1947,6 +2720,98 @@ font-size: 22px;
 /*****NOVINKY*****/
 /*****NOVINKY*****/  
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -50px;
+  font-size: 80px;
+  line-height: 1.4;
+  margin-bottom: 50px;
+}
+
+p#baz-des{
+  margin-bottom: 0;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+}
+
+#contact-info{
+  width: 90%;
+  margin-top: -300px;
+  background-color: rgb(41, 41, 41, 0.01);
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.2;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 20px;
+}
+
+.contact-item p, #contact-info a{
+  font-size: 14px;
+}
+
+.info-social a i{
+  font-size: 25px;
+}
+
+h3.info-hash{
+  font-size: 18px;
+}
+
+.form-headline{
+  font-size: 20px;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.personal-info{
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+h3.name{
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 14px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 80%;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+
     /***FOOTER***/
     .footer .footer-logo,
 .footer .footer-left,
@@ -2335,6 +3200,92 @@ font-size: 22px;
 /*****NOVINKY*****/
 /*****NOVINKY*****/
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -90px;
+}
+
+p#baz-des{
+  margin-bottom: 0;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
+
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+}
+
+#contact-info{
+  width: 70%;
+  margin-top: -300px;
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.5;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 20px;
+}
+
+.contact-item p, #contact-info a{
+  font-size: 14px;
+}
+
+.info-social a i{
+  font-size: 25px;
+}
+
+h3.info-hash{
+  font-size: 18px;
+}
+
+.form-headline{
+  font-size: 23px;
+}
+
+.personal-info{
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+h3.name{
+  font-size: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 16px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 70%;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
     /***FOOTER***/
     .footer .footer-logo,
 .footer .footer-left,
@@ -2696,6 +3647,88 @@ font-size: 22px;
 /*****NOVINKY*****/
 /*****NOVINKY*****/
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -50px;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
+
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+}
+
+#contact-info{
+  width: 70%;
+  margin-top: -350px;
+}
+
+.contact-headline img{
+ z-index: -2;
+ position: relative;
+ opacity: 0.5;
+ left: 50%;
+}
+
+.contact-item h2{
+  font-size: 18px;
+}
+
+.contact-item p{
+  font-size: 14px;
+}
+
+#info-social a{
+  font-size: 20px;
+}
+
+h3.info-hash{
+  font-size: 18px;
+}
+
+.form-headline{
+  font-size: 23px;
+}
+
+.personal-info{
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+h3.name{
+  font-size: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 16px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+.formcard{
+  width: 70%;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
     /***FOOTER***/
     .footer .footer-logo,
 .footer .footer-left,
@@ -3019,6 +4052,74 @@ font-size: 22px;
 /*****NOVINKY*****/
 /*****NOVINKY*****/
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -50px;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
+
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
+.contact-headline{
+  margin-top: 0;
+}
+
+
+
+.contact-item h2{
+  font-size: 18px;
+}
+
+.contact-item p{
+  font-size: 14px;
+}
+
+#info-social a{
+  font-size: 20px;
+}
+
+h3.info-hash{
+  font-size: 18px;
+}
+
+.form-headline{
+  font-size: 23px;
+}
+
+.personal-info{
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+h3.name{
+  font-size: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 16px;
+}
+
+.person-item{
+  width: 100%;
+}
+
+#banik{
+  flex-direction: column-reverse;
+}
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+
 
      /***FOOTER***/
 
@@ -3251,6 +4352,17 @@ a#price-btn{
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -50px;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
+
 /*****NOVINKY*****/
 /*****NOVINKY*****/
 /*****NOVINKY*****/
@@ -3305,6 +4417,47 @@ font-size: 22px;
 /*****NOVINKY*****/
 /*****NOVINKY*****/
 
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+.contact-headline{
+  margin-top: 0;
+}
+
+.contact-item h2{
+  font-size: 22px;
+}
+
+.contact-item p{
+  font-size: 16px;
+}
+
+.personal-info{
+  padding-left: 30px;
+}
+
+h3.name{
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.description{
+  font-size: 12px;
+}
+
+#pers-pic{
+width: 55%;
+}
+
+#pers-inf{
+  width: 45%;
+}
+
+
+/*****KONTAKT*****/
+/*****KONTAKT*****/
+/*****KONTAKT*****/
 
      /***FOOTER***/
      .footer{
@@ -3508,6 +4661,46 @@ font-size: 22px;
 /*****NOVINKY*****/
 /*****NOVINKY*****/
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -70px;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
+
+/*****KONTAKT*****/
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  .contact-headline{
+    margin-top: 0;
+  }
+
+  .contact-item h2{
+    font-size: 25px;
+  }
+
+  .contact-item p{
+    font-size: 16px;
+  }
+
+  .personal-info{
+    padding-left: 70px;
+  }
+
+  h3.name{
+    font-size: 50px;
+  }
+  p.description{
+    font-size: 14px;
+  }
+
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
 
     /***FOOTER***/
     .footer .footer-left{
@@ -3651,12 +4844,43 @@ a.cal-btn {
   font-size: 22px;
 }
 
-
   /*****NOVINKY*****/
   /*****NOVINKY*****/
   /*****NOVINKY*****/
 
+/*****BAZAR*****/ 
+/*****BAZAR*****/
+/*****BAZAR*****/
+h1#baz-head{
+  margin-top: -70px;
+}
+  
+/*****BAZAR*****/
+/*****BAZAR*****/
+/*****BAZAR*****/
 
+
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  .contact-headline{
+    margin-top: 0;
+  }
+
+  .personal-info{
+    padding-left: 70px;
+  }
+
+  h3.name{
+    font-size: 50px;
+  }
+  p.description{
+    font-size: 14px;
+  }
+
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
   
     /***FOOTER***/
     .footer .footer-left{
@@ -3733,7 +4957,7 @@ and (max-width: 1652px) {
   /*****MOTORKY*****/
   /*****MOTORKY*****/
 
-   /*****NOVINKY*****/
+  /*****NOVINKY*****/
   /*****NOVINKY*****/
   /*****NOVINKY*****/
   h1.bazar-headline {
@@ -3757,10 +4981,35 @@ p.bazar-descp{
 }
 
 
-     /*****NOVINKY*****/
+  /*****NOVINKY*****/
   /*****NOVINKY*****/
   /*****NOVINKY*****/
 
+
+  /*****BAZAR*****/
+  /*****BAZAR*****/
+  /*****BAZAR*****/
+h1#baz-head{
+  margin-top: -40px;
+}
+
+  /*****BAZAR*****/
+  /*****BAZAR*****/
+  /*****BAZAR*****/
+
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  .personal-info{
+    padding-left: 70px;
+  }
+
+  p.description{
+    font-size: 16px;
+  }
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
+  /*****KONTAKT*****/
 
     /***FOOTER***/
     .footer .footer-left{
