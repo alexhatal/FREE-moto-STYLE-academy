@@ -2306,11 +2306,14 @@ and (min-width: 1500px)
 and (max-width: 1652px) {
 
   .logo img{
-    margin-left: 0px;
+    width: 20%;
   }
-
+.toggle-btn{
+  width: 150px;
+}
   .toggle-btn img {
     width: 20%;
+
 }
   
   span{
