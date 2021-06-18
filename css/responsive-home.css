@@ -174,78 +174,7 @@ h3.name{
 }
 
 
-/***FOOTER***/
-    .footer .footer-logo,
-  .footer .footer-left,
-  .footer .footer-center,
-  .footer .footer-right{
-    width: 40%;
-    margin-left: 80px;
-  }
-  
-  .footer .footer-links a{
-    display: inline-block;
-  }
-  
-  .footer .footer-logo img{
-    width: 60%;
-    margin-left: 0;
-    margin-top: 0px;
-  }
-  
-  .footer .footer-left{
-    margin-left: 20px;
-    margin-top: 50px;
-  }
-  
-  .footer .footer-center{
-    margin-left: 70px;
-  }
-  
-  .footer .footer-center i {
-    width: 30px;
-    height: 30px;
-    line-height: 32px;
-    font-size: 15px;
-  }
-  
 
-  
-  .footer .footer-center i.fa-envelope {
-    font-size: 15px;
-    line-height: 32px;
-  }
-  
-  .footer .footer-links a,
-  .footer .footer-center p,
-  .download a{
-    font-size: 14px;
-  }
-  
-
-  .footer .footer-company,
-  .copy {
-    font-size: 12px;
-  }
-  
-  .footer .footer-company {
-    margin-top: 35px;
-    }
-  
-    .footer .footer-center i.fa-envelope,
-  .footer .footer-center i.fa-map-marker,
-  .footer .footer-center i.fa-phone{
-    display: none;
-  }
-
-  .footer .gdpr{
-    font-size: 14px;
-  }
-  
-  .download{
-    width: 180px;
-  }
-  /***FOOTER***/
 }
 
 @media only screen 
@@ -440,78 +369,7 @@ left: 30%;
 }
 
 
-/***FOOTER***/
-    .footer .footer-logo,
-  .footer .footer-left,
-  .footer .footer-center,
-  .footer .footer-right{
-    width: 40%;
-    margin-left: 80px;
-  }
-  
-  .footer .footer-links a{
-    display: inline-block;
-  }
-  
-  .footer .footer-logo img{
-    width: 60%;
-    margin-left: 0;
-    margin-top: 0px;
-  }
-  
-  .footer .footer-left{
-    margin-left: 20px;
-    margin-top: 50px;
-  }
-  
-  .footer .footer-center{
-    margin-left: 70px;
-  }
-  
-  .footer .footer-center i {
-    width: 30px;
-    height: 30px;
-    line-height: 32px;
-    font-size: 15px;
-  }
-  
 
-  
-  .footer .footer-center i.fa-envelope {
-    font-size: 15px;
-    line-height: 32px;
-  }
-  
-  .footer .footer-links a,
-  .footer .footer-center p,
-  .download a{
-    font-size: 14px;
-  }
-  
-
-  .footer .footer-company,
-  .copy {
-    font-size: 12px;
-  }
-  
-  .footer .footer-company {
-    margin-top: 35px;
-    }
-  
-    .footer .footer-center i.fa-envelope,
-  .footer .footer-center i.fa-map-marker,
-  .footer .footer-center i.fa-phone{
-    display: none;
-  }
-
-  .footer .gdpr{
-    font-size: 14px;
-  }
-  
-  .download{
-    width: 180px;
-  }
-  /***FOOTER***/
 
 }
 
@@ -705,79 +563,7 @@ left: 30%;
 }
 
 
-/***FOOTER***/
-    .footer .footer-logo,
-  .footer .footer-left,
-  .footer .footer-center,
-  .footer .footer-right{
-    width: 40%;
-    margin-left: 80px;
-  }
-  
-  .footer .footer-links a{
-    display: inline-block;
-  }
-  
-  .footer .footer-logo img{
-    width: 60%;
-    margin-left: 0;
-    margin-top: 0px;
-  }
-  
-  .footer .footer-left{
-    margin-left: 20px;
-    margin-top: 50px;
-  }
-  
-  .footer .footer-center{
-    margin-left: 70px;
-  }
-  
-  .footer .footer-center i {
-    width: 30px;
-    height: 30px;
-    line-height: 32px;
-    font-size: 15px;
-  }
-  
 
-  
-  .footer .footer-center i.fa-envelope {
-    font-size: 15px;
-    line-height: 32px;
-  }
-  
-  .footer .footer-links a, 
-  .footer .footer-center p, 
-  .footer .gdpr span, 
-  .download a{
-    font-size: 12px;
-  }
-  
-
-  .footer .footer-company,
-  .copy {
-    font-size: 12px;
-  }
-  
-  .footer .footer-company {
-    margin-top: 35px;
-    }
-  
-    .footer .footer-center i.fa-envelope,
-  .footer .footer-center i.fa-map-marker,
-  .footer .footer-center i.fa-phone{
-    display: none;
-  }
-
-  .footer .gdpr{
-    font-size: 14px;
-  }
-  
-  .download{
-    width: 180px;
-  }
-  /***FOOTER***/
 
 }
 
@@ -953,78 +739,7 @@ a.person-social{
 }
 
 
-/***FOOTER***/
-    .footer .footer-logo,
-  .footer .footer-left,
-  .footer .footer-center,
-  .footer .footer-right{
-    width: 40%;
-    margin-left: 80px;
-  }
-  
-  .footer .footer-links a{
-    display: inline-block;
-  }
-  
-  .footer .footer-logo img{
-    width: 60%;
-    margin-left: 0;
-    margin-top: 0px;
-  }
-  
-  .footer .footer-left{
-    margin-left: 20px;
-    margin-top: 50px;
-  }
-  
-  .footer .footer-center{
-    margin-left: 70px;
-  }
-  
-  .footer .footer-center i {
-    width: 30px;
-    height: 30px;
-    line-height: 32px;
-    font-size: 15px;
-  }
-  
 
-  
-  .footer .footer-center i.fa-envelope {
-    font-size: 15px;
-    line-height: 32px;
-  }
-  
-  .footer .footer-links a,
-  .footer .footer-center p,
-  .download a{
-    font-size: 14px;
-  }
-  
-
-  .footer .footer-company,
-  .copy {
-    font-size: 12px;
-  }
-  
-  .footer .footer-company {
-    margin-top: 35px;
-    }
-  
-    .footer .footer-center i.fa-envelope,
-  .footer .footer-center i.fa-map-marker,
-  .footer .footer-center i.fa-phone{
-    display: none;
-  }
-
-  .footer .gdpr{
-    font-size: 14px;
-  }
-  
-  .download{
-    width: 180px;
-  }
-  /***FOOTER***/
 
 }
 
@@ -1192,78 +907,7 @@ h3.name{
 }
 
 
-/***FOOTER***/
-    .footer .footer-logo,
-  .footer .footer-left,
-  .footer .footer-center,
-  .footer .footer-right{
-    width: 40%;
-    margin-left: 80px;
-  }
-  
-  .footer .footer-links a{
-    display: inline-block;
-  }
-  
-  .footer .footer-logo img{
-    width: 60%;
-    margin-left: 0;
-    margin-top: 0px;
-  }
-  
-  .footer .footer-left{
-    margin-left: 20px;
-    margin-top: 50px;
-  }
-  
-  .footer .footer-center{
-    margin-left: 70px;
-  }
-  
-  .footer .footer-center i {
-    width: 30px;
-    height: 30px;
-    line-height: 32px;
-    font-size: 15px;
-  }
-  
 
-  
-  .footer .footer-center i.fa-envelope {
-    font-size: 15px;
-    line-height: 32px;
-  }
-  
-  .footer .footer-links a,
-  .footer .footer-center p,
-  .download a{
-    font-size: 14px;
-  }
-  
-
-  .footer .footer-company,
-  .copy {
-    font-size: 12px;
-  }
-  
-  .footer .footer-company {
-    margin-top: 35px;
-    }
-  
-    .footer .footer-center i.fa-envelope,
-  .footer .footer-center i.fa-map-marker,
-  .footer .footer-center i.fa-phone{
-    display: none;
-  }
-
-  .footer .gdpr{
-    font-size: 14px;
-  }
-  
-  .download{
-    width: 180px;
-  }
-  /***FOOTER***/
 
 }
 
@@ -1431,78 +1075,7 @@ p.label, p.description{
 
 
 
-/***FOOTER***/
-    .footer .footer-logo,
-  .footer .footer-left,
-  .footer .footer-center,
-  .footer .footer-right{
-    width: 40%;
-    margin-left: 80px;
-  }
-  
-  .footer .footer-links a{
-    display: inline-block;
-  }
-  
-  .footer .footer-logo img{
-    width: 60%;
-    margin-left: 0;
-    margin-top: 0px;
-  }
-  
-  .footer .footer-left{
-    margin-left: 20px;
-    margin-top: 50px;
-  }
-  
-  .footer .footer-center{
-    margin-left: 70px;
-  }
-  
-  .footer .footer-center i {
-    width: 30px;
-    height: 30px;
-    line-height: 32px;
-    font-size: 15px;
-  }
-  
 
-  
-  .footer .footer-center i.fa-envelope {
-    font-size: 15px;
-    line-height: 32px;
-  }
-  
-  .footer .footer-links a,
-  .footer .footer-center p,
-  .download a{
-    font-size: 14px;
-  }
-  
-
-  .footer .footer-company,
-  .copy {
-    font-size: 12px;
-  }
-  
-  .footer .footer-company {
-    margin-top: 35px;
-    }
-  
-    .footer .footer-center i.fa-envelope,
-  .footer .footer-center i.fa-map-marker,
-  .footer .footer-center i.fa-phone{
-    display: none;
-  }
-
-  .footer .gdpr{
-    font-size: 14px;
-  }
-  
-  .download{
-    width: 180px;
-  }
-  /***FOOTER***/
 
 }
 
@@ -1675,75 +1248,7 @@ img.partner-logo{
   position: relative;
 }
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 60%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-    /***FOOTER***/
+    
 }
 
 @media only screen 
@@ -1916,60 +1421,7 @@ left: 0%;
 }
 
 
-     /***FOOTER***/
-    .footer .footer-logo{
-        width: 16%;
-      }
-      
-      .footer .footer-logo img{
-        width: 110%;
-        margin-left: 0;
-        margin-top: 30px;
-      }
-      
-      .footer .footer-left{
-        margin-left: 40px;
-      }
-      .footer .footer-center{
-        width: 38%;
-        margin-left: -50px;
-        margin-top: 0px;
-      }
-      
-      .footer .footer-right{
-        margin-left: 20px;
-      }
-      
-      .footer .footer-center i {
-        width: 30px;
-        height: 30px;
-        line-height: 32px;
-        font-size: 13px;
-      }
-      
-      .footer .footer-center i.fa-envelope {
-        font-size: 13px;
-        line-height: 32px;
-      }
-      .footer .gdpr{
-        font-size: 12px;
-      }
-
-      .footer .footer-links a,
-      .footer .footer-center p,
-      .download a{
-        font-size: 13px;
-      }
-      
-      .footer .footer-company,
-      .copy {
-        font-size: 10px;
-      }
-      
-      .download{
-        width: 180px;
-      }
-       /***FOOTER***/
+  
 }
 
 @media only screen 
@@ -2138,57 +1590,7 @@ left: 0%;
 }
 
 
-     /***FOOTER***/
-    .footer .footer-logo{
-        width: 18%;
-      }
-      
-      .footer .footer-logo img{
-        width: 110%;
-        margin-left: 0;
-        margin-top: 30px;
-      }
-      
-      .footer .footer-left{
-        margin-left: 40px;
-      }
-      .footer .footer-center{
-        width: 32%;
-        margin-left: -50px;
-        margin-top: 20px;
-      }
-      
-      .footer .footer-right{
-        margin-left: 20px;
-      }
-      
-      .footer .footer-center i {
-        width: 30px;
-        height: 30px;
-        line-height: 32px;
-        font-size: 15px;
-      }
-      
-      .footer .footer-center i.fa-envelope {
-        font-size: 15px;
-        line-height: 32px;
-      }
-      
-      .footer .footer-links a,
-      .footer .footer-center p,
-      .download a{
-        font-size: 16px;
-      }
-      
-      .footer .footer-company,
-      .copy {
-        font-size: 14px;
-      }
-      
-      .download{
-        width: 180px;
-      }
-       /***FOOTER***/
+ 
 }
 
 @media only screen 
@@ -2247,14 +1649,7 @@ font-size: 14px;
   img#uax{
     width: 45%;
   }
-    /***FOOTER***/
-    .footer .footer-left{
-        margin-left: 0px;
-      }
-      .footer .footer-company {
-      margin-top: 50px;
-      }
-    /***FOOTER***/
+ 
 }
 
 @media only screen 
@@ -2305,14 +1700,7 @@ span{
   img#uax{
     width: 45%;
   }
-    /***FOOTER***/
-    .footer .footer-left{
-        margin-left: 0px;
-      }
-      .footer .footer-company {
-      margin-top: 50px;
-      }
-    /***FOOTER***/
+ 
 }
 
 @media only screen 
@@ -2338,55 +1726,6 @@ and (max-width: 1652px) {
     font-size: 75px;
     margin-bottom: 35px;
   }
-
-
-  
-  
-    /***FOOTER***/
-    .footer .footer-left{
-        margin-left: 80px;
-      }
-    /***FOOTER***/
+ 
 }
 
-/*FOOTER*/
-@media all and (max-width: 814px) {
-    .footer .footer-logo,
-    .footer .footer-left,
-    .footer .footer-center,
-    .footer .footer-right{
-        display: block;
-        width: 100%;
-        margin-left: 0;
-        margin: 20px auto;
-        text-align: center;
-    }
-    
-    .footer .footer-links a,
-    .footer .footer-center p,
-    .footer .gdpr span,
-    .download a{
-    font-size: 12px;
-    }
-  
-  .footer .footer-logo{
-    width: 50%;
-  }
-  
-    .footer .footer-links a{
-      display: inline-block;
-    }
-  
-    .footer .footer-company,
-    .copy {
-      font-size: 10px;
-    }
-  
-    .footer .footer-links,
-    .footer .footer-company,
-    .footer .gdpr span {
-      text-align: center;
-    }
-  
-  
-  }

@@ -446,7 +446,7 @@ p#baz-des{
   width: 90%;
   margin-top: -180px;
   background-color: rgb(41, 41, 41, 0.01);
-  padding: 20px 40px;
+  padding: 20px;
 }
 
 .contact-headline img{
@@ -457,15 +457,15 @@ p#baz-des{
 }
 
 .contact-item h2{
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .contact-item p, #contact-info a{
-  font-size: 10px;
+  font-size: 11px;
 }
 
 .info-social{
-  height: 120px;
+  margin: 10px 0;
 }
 
 .info-social a i{
@@ -473,14 +473,15 @@ p#baz-des{
 }
 
 h3.info-hash{
-  font-size: 13px;
-  color: black;
+  font-size: 10px;
+ 
 }
 
 .form-headline{
   font-size: 16px;
   padding: 0;
   line-height: 1.6;
+  margin: 30px auto;
 }
 
 #weare h2{
@@ -534,80 +535,7 @@ select{
 /*****KONTAKT*****/
 /*****KONTAKT*****/
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 60%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
-    /***FOOTER***/
+    
 }
 
 
@@ -1079,6 +1007,7 @@ p#baz-des{
   width: 90%;
   margin-top: -220px;
   background-color: rgb(41, 41, 41, 0.01);
+  padding: 30px;
 }
 
 .contact-headline img{
@@ -1089,15 +1018,15 @@ p#baz-des{
 }
 
 .contact-item h2{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .contact-item p, #contact-info a{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .info-social{
-  height: 120px;
+  margin: 15px 0;
 }
 
 .info-social a i{
@@ -1106,12 +1035,11 @@ p#baz-des{
 
 h3.info-hash{
   font-size: 13px;
-  color: black;
 }
 
 .form-headline{
   font-size: 18px;
-  padding: 0;
+  padding: 30px 0 0 0;
   line-height: 1.6;
 }
 
@@ -1157,80 +1085,6 @@ i#form-icon{
 /*****KONTAKT*****/
 /*****KONTAKT*****/
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 60%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
-    /***FOOTER***/
 }
 
 
@@ -1681,8 +1535,9 @@ p#baz-des{
 
 #contact-info{
   width: 90%;
-  margin-top: -280px;
+  margin-top: -250px;
   background-color: rgb(41, 41, 41, 0.01);
+  padding: 40px ;
 }
 
 .contact-headline img{
@@ -1693,15 +1548,15 @@ p#baz-des{
 }
 
 .contact-item h2{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .contact-item p, #contact-info a{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .info-social{
-  height: 70px;
+  margin: 20px 0;
 }
 
 .info-social a i{
@@ -1760,80 +1615,7 @@ i#form-icon{
 /*****KONTAKT*****/
 /*****KONTAKT*****/
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 60%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
-    /***FOOTER***/
+   
 }
 
 
@@ -2261,8 +2043,9 @@ p#baz-des{
 
 #contact-info{
   width: 90%;
-  margin-top: -300px;
+  margin-top: -270px;
   background-color: rgb(41, 41, 41, 0.01);
+  padding: 40px;
 }
 
 .contact-headline img{
@@ -2277,7 +2060,11 @@ p#baz-des{
 }
 
 .contact-item p, #contact-info a{
-  font-size: 12px;
+  font-size: 14px;
+}
+
+.info-social{
+  margin: 25px 0;
 }
 
 .info-social a i{
@@ -2329,80 +2116,7 @@ p.description{
 /*****KONTAKT*****/
 
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
 
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 50%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
-    /***FOOTER***/
 }
 
 
@@ -2793,6 +2507,7 @@ p#baz-des{
 
 .contact-headline{
   margin-top: 0;
+  padding-bottom: 20px;
 }
 
 #contact-info{
@@ -2809,11 +2524,11 @@ p#baz-des{
 }
 
 .contact-item h2{
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .contact-item p, #contact-info a{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .info-social a i{
@@ -2861,79 +2576,6 @@ p.description{
 /*****KONTAKT*****/
 
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 50%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
     /***FOOTER***/
 }
 
@@ -3132,7 +2774,7 @@ p{
 
   .slick-itm{
     width: 30%;
-    height: 100px;
+    height: 120px;
   }
 
   .tooltiptext{
@@ -3292,6 +2934,7 @@ p#baz-des{
 #contact-info{
   width: 70%;
   margin-top: -300px;
+  padding: 40px 50px;
 }
 
 .contact-headline img{
@@ -3306,7 +2949,7 @@ p#baz-des{
 }
 
 .contact-item p, #contact-info a{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .info-social a i{
@@ -3351,80 +2994,7 @@ p.description{
 /*****KONTAKT*****/
 /*****KONTAKT*****/
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 50%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a,
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
-    /***FOOTER***/
+   
 }
 
 @media only screen 
@@ -3599,7 +3169,7 @@ p{
 
   .slick-itm{
     width: 30%;
-    height: 100px;
+    height: 120px;
   }
 
   .tooltiptext{
@@ -3743,11 +3313,13 @@ h1#baz-head{
 
 .contact-headline{
   margin-top: 0;
+  padding-bottom: 0;
 }
 
 #contact-info{
   width: 70%;
   margin-top: -350px;
+  padding: 40px 60px;
 }
 
 .contact-headline img{
@@ -3762,7 +3334,7 @@ h1#baz-head{
 }
 
 .contact-item p{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #info-social a{
@@ -3807,80 +3379,7 @@ p.description{
 /*****KONTAKT*****/
 /*****KONTAKT*****/
 
-    /***FOOTER***/
-    .footer .footer-logo,
-.footer .footer-left,
-.footer .footer-center,
-.footer .footer-right{
-  width: 40%;
-  margin-left: 80px;
-}
-
-.footer .footer-links a{
-  display: inline-block;
-}
-
-.footer .footer-logo img{
-  width: 50%;
-  margin-left: 0;
-  margin-top: 0px;
-}
-
-.footer .footer-left{
-  margin-left: 20px;
-  margin-top: 50px;
-}
-
-.footer .footer-center{
-  margin-left: 70px;
-}
-
-.footer .footer-center i {
-  width: 30px;
-  height: 30px;
-  line-height: 32px;
-  font-size: 15px;
-}
-
-.footer .footer-right{
-  margin-left: 30px;
-}
-
-.footer .footer-center i.fa-envelope {
-  font-size: 15px;
-  line-height: 32px;
-}
-
-.footer .footer-links a,
-.footer .footer-center p,
-.footer .footer-center a
-.download a{
-  font-size: 14px;
-}
-
-.footer .footer-company,
-.copy {
-  font-size: 12px;
-}
-
-.footer .footer-company {
-  margin-top: 35px;
-  }
-
-  .footer .footer-center i.fa-envelope,
-.footer .footer-center i.fa-map-marker,
-.footer .footer-center i.fa-phone{
-  display: none;
-}
-
-.download{
-  width: 180px;
-}
-
-a.reference{
-  font-size: 10px;
-}
-    /***FOOTER***/
+  
 }
 
 @media only screen 
@@ -4017,7 +3516,7 @@ and (max-width: 992px) {
 
   .slick-itm{
     width: 30%;
-    height: 100px;
+    height: 120px;
   }
 
   .tooltiptext{
@@ -4202,63 +3701,7 @@ p.description{
 /*****KONTAKT*****/
 
 
-     /***FOOTER***/
-
-    .footer .footer-logo{
-        width: 18%;
-      }
-      
-      .footer .footer-logo img{
-        width: 110%;
-        margin-left: 0;
-        margin-top: 30px;
-      }
-      
-      .footer .footer-left{
-        margin-left: 40px;
-      }
-      .footer .footer-center{
-        width: 38%;
-        margin-left: -50px;
-        margin-top: 20px;
-      }
-      
-      .footer .footer-right{
-        margin-left: 20px;
-      }
-      
-      .footer .footer-center i {
-        width: 30px;
-        height: 30px;
-        line-height: 32px;
-        font-size: 15px;
-      }
-      
-      .footer .footer-center i.fa-envelope {
-        font-size: 15px;
-        line-height: 32px;
-      }
-      
-      .footer .footer-links a,
-      .footer .footer-center p,
-      .footer-center a,
-      .download a{
-        font-size: 14px;
-      }
-      
-      .footer .footer-company,
-      .copy {
-        font-size: 14px;
-      }
-      
-      .download{
-        width: 180px;
-      }
-
-      a.reference {
-        font-size: 14px;
-    }
-       /***FOOTER***/
+    
 }
 
 @media only screen 
@@ -4281,7 +3724,7 @@ span{
 }
 
 .main-headline{
-  margin-top: -3%;
+  margin-top: 3%;
   margin-left: 50px;
   width: 80%;
   padding: 00px 20px 0 20px;
@@ -4384,7 +3827,7 @@ p.main-descp{
 
   .slick-itm{
     width: 20%;
-    height: 100px;
+    height: 120px;
   }
 
   .tooltiptext{
@@ -4545,64 +3988,6 @@ width: 55%;
 /*****KONTAKT*****/
 /*****KONTAKT*****/
 
-     /***FOOTER***/
-     .footer{
-       font-size: 14px;
-     }
-    .footer .footer-logo{
-        width: 18%;
-      }
-      
-      .footer .footer-logo img{
-        width: 110%;
-        margin-left: 0;
-        margin-top: 30px;
-      }
-      
-      .footer .footer-left{
-        margin-left: 40px;
-      }
-      .footer .footer-center{
-        width: 35%;
-        margin-left: -50px;
-        margin-top: 0px;
-      }
-      
-      .footer .footer-right{
-        margin-left: 20px;
-      }
-      
-      .footer .footer-center i {
-        width: 30px;
-        height: 30px;
-        line-height: 32px;
-        font-size: 15px;
-      }
-      
-      .footer .footer-center i.fa-envelope {
-        font-size: 15px;
-        line-height: 32px;
-      }
-      
-      .footer .footer-links a,
-      .footer .footer-center p,
-      .download a{
-        font-size: 16px;
-      }
-      
-      .footer .footer-company,
-      .copy {
-        font-size: 14px;
-      }
-      
-      .download{
-        width: 180px;
-      }
-
-      a.reference {
-        font-size: 14px;
-    }
-       /***FOOTER***/
 }
 
 @media only screen 
@@ -4672,7 +4057,7 @@ and (max-width: 1366px) {
 
   .slick-itm{
     width: 20%;
-    height: 100px;
+    height: 120px;
   }
 
   .tooltiptext{
@@ -4799,19 +4184,6 @@ h1#baz-head{
   /*****KONTAKT*****/
   /*****KONTAKT*****/
   /*****KONTAKT*****/
-
-    /***FOOTER***/
-    .footer .footer-left{
-        margin-left: 0px;
-      }
-      .footer .footer-company {
-      margin-top: 50px;
-      }
-
-      .footer .footer-center{
-        width: 30%;
-      }
-    /***FOOTER***/
 }
 
 @media only screen 
@@ -4880,7 +4252,7 @@ and (max-width: 1499px) {
 
   .slick-itm{
     width: 20%;
-    height: 100px;
+    height: 120px;
   }
 
   .tooltiptext{
@@ -4995,15 +4367,7 @@ h1#baz-head{
   /*****KONTAKT*****/
   /*****KONTAKT*****/
   /*****KONTAKT*****/
-  
-    /***FOOTER***/
-    .footer .footer-left{
-        margin-left: 0px;
-      }
-      .footer .footer-company {
-      margin-top: 50px;
-      }
-    /***FOOTER***/
+
 }
 
 @media only screen 
@@ -5142,51 +4506,5 @@ h1#baz-head{
   /*****KONTAKT*****/
   /*****KONTAKT*****/
 
-    /***FOOTER***/
-    .footer .footer-left{
-        margin-left: 80px;
-      }
-    /***FOOTER***/
 }
 
-/*FOOTER*/
-@media all and (max-width: 814px) {
-    .footer .footer-logo,
-    .footer .footer-left,
-    .footer .footer-center,
-    .footer .footer-right{
-        display: block;
-        width: 100%;
-        margin-left: 0;
-        margin: 20px auto;
-        text-align: center;
-    }
-    
-    .footer .footer-links a,
-    .footer .footer-center p,
-    .footer .gdpr span,
-    .download a{
-    font-size: 14px;
-    }
-  
-  .footer .footer-logo{
-    width: 50%;
-  }
-  
-    .footer .footer-links a{
-      display: inline-block;
-    }
-  
-    .footer .footer-company,
-    .copy {
-      font-size: 10px;
-    }
-  
-    .footer .footer-links,
-    .footer .footer-company,
-    .footer .gdpr span {
-      text-align: center;
-    }
-  
-  
-  }
