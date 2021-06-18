@@ -1599,6 +1599,7 @@ font-size: 20px;
     line-height: 1.6;
     border-radius: 80px 0 0 80px;
   margin-top: 20px;
+  background-color: rgb(255,255,255,0.5);
   }
   
   .sub-head h2{
@@ -3210,7 +3211,7 @@ font-size: 15px;
 }
 
 .newest h1 {
-  padding: 10px 50px 20px 50px;
+  padding: 60px 50px 20px 50px;
   font-size: 25px;
 }
 
@@ -3678,6 +3679,7 @@ font-size: 15px;
 .newest h1 {
   padding: 50px;
   font-size: 30px;
+  margin-top: 20px;
 }
 
 
@@ -4089,6 +4091,7 @@ font-size: 15px;
 .newest h1 {
   padding: 50px;
   font-size: 35px;
+  margin-top: 20px;
 }
 .sub-head h2{
   font-size: 22px;
@@ -4461,6 +4464,7 @@ font-size: 15px;
 .newest h1 {
   padding: 50px;
   font-size: 35px;
+  margin-top: 50px;
 }
 
 .news-descp {
@@ -4730,7 +4734,7 @@ font-size: 15px;
 }
 
 .newest h1 {
-  padding: 0px 50px 50px 50px;
+  padding: 80px 50px 50px 50px;
   font-size: 45px;
 }
 
@@ -4917,6 +4921,7 @@ and (max-width: 1499px) {
     margin-top: -35px;
 }
 
+
 .news-social {
   margin-top: 20px;
 }
@@ -4935,7 +4940,7 @@ p.bazar-descp{
 }
 
 .newest h1 {
-  padding: 0px 80px 30px 80px;
+  padding: 80px 50px 50px 50px;
 }
 
 .cal-card{
@@ -5080,6 +5085,10 @@ and (max-width: 1652px) {
   /*****NOVINKY*****/
   h1.bazar-headline {
     font-size: 85px;
+}
+
+.newest h1{
+  padding: 100px 50px 50px 50px;
 }
 
 .news-social {
