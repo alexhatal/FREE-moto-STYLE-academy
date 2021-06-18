@@ -42,7 +42,7 @@ h1.bazar-headline {
 }
 
 p.bazar-descp{
-    font-size: 20px;
+    font-size: 25px;
     color: rgb(255, 137, 1);
     width: 60%;
     margin: 0 auto;
@@ -242,11 +242,9 @@ h3.moto-name {
       text-align: center;
       width: 80%;
       margin: 0 auto;
-      font-size: 22px;
-      font-weight: normal;
+      font-size: 30px;
+      font-weight: bolder;
   }
-
- 
 
   .imgBx p{
       font-size: 14px;
@@ -300,9 +298,14 @@ background-image: url(../img/cal-ban.jpg);
     padding: 30px 60px;
     font-size: 25px;
   }
+  .news-social{
+      margin-top: 30px;
+  }
 
   .news-social a{
       color: rgb(255, 137, 1);
+      font-size: 30px;
+      padding: 20px;
   }
 
   .news-social a:hover{

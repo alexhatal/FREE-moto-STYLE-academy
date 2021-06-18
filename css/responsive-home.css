@@ -9,7 +9,7 @@ and (max-width: 359px) {
 }
 .logo img{
   margin-left: 0px;
-  width: 50%;
+  width: 35%;
 }
 
 .toggle-btn {
@@ -260,7 +260,8 @@ body{
 
 .logo img{
   margin-left: 0px;
-  width: 50%;
+  width: 40%;
+  margin-top: -8px;
 }
 
 .toggle-btn {
@@ -526,7 +527,7 @@ body{
 
 .logo img{
   margin-left: 0px;
-  width: 60%;
+  width: 40%;
 }
 
 .toggle-btn {
@@ -790,14 +791,16 @@ body{
     width: 100%;
 }
 
-.logo img{
+.logo img{  
+  width: 40%;
+  margin-top: -3px;
   margin-left: 0px;
-  width: 50%;
+
 }
 
 .toggle-btn {
   width: 100px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .toggle-btn img {
@@ -1038,12 +1041,13 @@ body{
 
 .logo img{
   margin-left: 0px;
-  width: 50%;
+  width: 45%;
+  
 }
 
 .toggle-btn {
-  width: 110px;
-  margin-top: 20px;
+  width: 120px;
+  margin-top: 15px;
 }
 
 .toggle-btn img {
@@ -1063,8 +1067,8 @@ span{
 }
 
 h1.headline{
-  font-size: 35px;
-  line-height: 50px;
+  font-size: 45px;
+  line-height: 60px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
   margin-bottom: 20px;
 }
@@ -1275,12 +1279,12 @@ body{
 
 .logo img{
   margin-left: 0px;
-  width: 50%;
+  width: 45%;
 }
 
 .toggle-btn {
-  width: 110px;
-  margin-top: 25px;
+  width: 130px;
+  margin-top: 20px;
 }
 
 .toggle-btn img {
@@ -1299,8 +1303,8 @@ span{
 }
 
 h1.headline{
-  font-size: 35px;
-  line-height: 50px;
+  font-size: 40px;
+  line-height: 60px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
   margin-bottom: 20px;
 }
@@ -1520,8 +1524,8 @@ and (max-width: 834px) {
 }
 
 .toggle-btn {
-  width: 120px;
-  margin-top: 25px;
+  width: 160px;
+  margin-top: 20px;
 }
 
 .toggle-btn img {
@@ -1529,18 +1533,18 @@ and (max-width: 834px) {
 }
 
 span{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .main-headline{
-  margin-top: 20%;
+  margin-top: 17%;
   margin-left: 30px;
   width: 80%;
   padding: 40px;
 }
 
 h1.headline{
-  font-size: 55px;
+  font-size: 60px;
   line-height: 75px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
   margin-bottom: 20px;
@@ -1555,7 +1559,7 @@ a.headline-btn{
 }
 
 .devider1{
-  height: 40px;
+  height: 30px;
 }
 
 .social{
@@ -1565,12 +1569,12 @@ a.headline-btn{
 }
 
 .social a{
-  font-size: 25px;
+  font-size: 30px;
 }
 
 h2.hash{
-  font-size: 20px;
-  width: 80%;
+  font-size: 25px;
+  width: 70%;
   margin: 0 auto;
 
 }
@@ -1757,7 +1761,7 @@ and (max-width: 992px) {
 }
 
 .toggle-btn {
-  width: 120px;
+  width: 160px;
   margin-top: 25px;
 }
 
@@ -1766,7 +1770,7 @@ and (max-width: 992px) {
 }
 
 span{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .main-headline{
@@ -1980,7 +1984,7 @@ and (max-width: 1279px) {
 
 .logo img{
   margin-left: 0px;
-  width: 30%;
+  width: 35%;
 }
 
 .toggle-btn img {
@@ -1988,26 +1992,26 @@ and (max-width: 1279px) {
 }
 
 span{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .main-headline{
-  margin-top: 25%;
+  margin-top: 20%;
   margin-left: 50px;
   width: 80%;
   padding: 40px;
 }
 
 h1.headline{
-  font-size: 60px;
-  line-height: 80px;
+  font-size: 80px;
+  line-height: 100px;
   filter: drop-shadow(3px 3px 3px rgb(0,0,0) );
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 a.headline-btn{
-  font-size: 22px;
-  padding: 15px 25px;
+  font-size: 25px;
+  padding: 20px 35px;
   text-decoration: none;
   color: black;
 
@@ -2198,24 +2202,25 @@ body{
 
 .logo img{
   margin-left: 0px;
+  width: 30%;
 }
 
 .toggle-btn img {
-  width: 20%;
+  width: 25%;
 }
 
 span{
-  font-size: 20px;
+  font-size: 25px;
 }
 
   .main-headline{
-    margin-top: 8%;
+    margin-top: 10%;
     margin-left: 120px;
 }
   h1.headline{
-    font-size: 60px;
+    font-size: 67px;
     line-height: 90px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
 
   .personal-info{
@@ -2263,6 +2268,12 @@ body{
 
 .logo img{
   margin-left: 0px;
+  width: 30%;
+}
+
+.toggle-btn{
+  width: 180px;
+  margin-top: 30px;
 }
 
 .toggle-btn img {
@@ -2270,17 +2281,20 @@ body{
 }
 
 span{
-  font-size: 20px;
+  font-size: 30px;
 }
 
+.devider1{
+  height: 80px;
+}
 
   .main-headline{
-    margin-top: 8%;
+    margin-top: 10%;
     margin-left: 120px;
 }
   h1.headline{
-    font-size: 60px;
-    line-height: 90px;
+    font-size: 70px;
+    line-height: 100px;
     margin-bottom: 20px;
   }
 
@@ -2306,19 +2320,26 @@ and (min-width: 1500px)
 and (max-width: 1652px) {
 
   .logo img{
-    width: 20%;
+    width: 25%;
   }
 .toggle-btn{
-  width: 150px;
+  margin-top: 45px;
+  width: 180px;
 }
   .toggle-btn img {
     width: 20%;
-
 }
   
   span{
-    font-size: 20px;
+    font-size: 25px;
   }
+
+  h1.headline{
+    font-size: 75px;
+    margin-bottom: 35px;
+  }
+
+
   
   
     /***FOOTER***/

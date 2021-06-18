@@ -9,7 +9,7 @@ and (max-width: 359px) {
 
   .logo img{
     margin-left: 0px;
-    width: 50%;
+    width: 35%;
   }
   
   .toggle-btn {
@@ -55,7 +55,7 @@ and (max-width: 359px) {
   }
 
   .service-head h2{
-    font-size: 35px;
+    font-size: 30px;
   }
   
   /***MAIN***/
@@ -86,7 +86,7 @@ p{
   }
   
   .blocktwo{
-    margin-top: 20px;
+    margin-top: 0px;
   }
   .blocktwo-item {
     width: 90%;
@@ -141,16 +141,24 @@ p{
    margin-left: 25px;
   }
   
+
+  ul.event{
+    margin-left: 0;
+  }
   
+  .gallery-item{
+    width: 100%;
+  }
   
   .gallery-item img{
     padding: 0;
-    width: 140px;
-    height: 100px;
+    width: 200px;
+    height: 140px;
   }
 
   .gallery{
     padding: 0;
+    margin-top: 50px;
   }
 
   .blockfive{
@@ -164,8 +172,8 @@ p{
     width: 85%;
 }
 
-  .blocksix-item h3{
-    width: 90%;
+  .blocksix-item h3, .blocknine-item h3{
+    width: 100%;
     font-size: 18px;
   }
   
@@ -343,16 +351,19 @@ p.bazar-descp{
   }
   
   .newest h1 {
-    padding: 50px 50px 50px 30px;
+    padding:30px;
     font-size: 20px;
     line-height: 1.6;
-    background-color: rgb(255,255,255,0.5);
     border-radius: 80px 0 0 80px;
   
   }
+
+  .news-social a{
+    font-size: 20px;
+  }
   
   .sub-head h2{
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .news-descp {
@@ -610,7 +621,8 @@ and (max-width: 392px) {
 
   .logo img{
     margin-left: 0px;
-    width: 50%;
+    width: 40%;
+    margin-top: -8px;
   }
   
   .toggle-btn {
@@ -764,6 +776,7 @@ ul.event {
 
   .gallery{
     padding: 0;
+    margin-top: 50px;
   }
 
   .gallery-item{
@@ -792,7 +805,7 @@ ul.event {
   
   .blockseven-item{
     width: 100%;
-    padding: 30px;
+    padding: 0px;
   }
 
   .blocksix a#sell{
@@ -967,14 +980,22 @@ p.bazar-descp{
   }
   
   .newest h1 {
-    padding: 50px 50px 50px 30px;
+    padding: 30px;
     font-size: 20px;
     line-height: 1.6;
-    background-color: rgb(255,255,255,0.5);
     border-radius: 80px 0 0 80px;
   
   }
   
+  .news-social{
+    margin-top: 0px;
+    height: 70px;
+  }
+
+  .news-social a{
+    font-size: 18px;
+  }
+
   .sub-head h2{
     font-size: 18px;
   }
@@ -1223,7 +1244,7 @@ and (max-width: 432px) {
 
   .logo img{
     margin-left: 0px;
-    width: 60%;
+    width: 40%;
   }
   
   .toggle-btn {
@@ -1364,6 +1385,7 @@ p{
 
   .gallery{
     padding: 0;
+    margin-top: 50px;
   }
 
   .gallery-item{
@@ -1555,8 +1577,16 @@ p.bazar-descp{
   h1#news-head{
     font-size: 40px;
     line-height: 1.5;
-    margin-top: -20px;
-    margin-bottom: 40px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+  }
+
+  .news-social{
+    margin-top: 0;
+  }
+
+  .news-social a{
+font-size: 20px;
   }
   
   .news-descp p{
@@ -1564,16 +1594,16 @@ p.bazar-descp{
   }
   
   .newest h1 {
-    padding: 50px 50px 50px 30px;
-    font-size: 25px;
+    padding: 20px;
+    font-size: 22px;
     line-height: 1.6;
-    background-color: rgb(255,255,255,0.5);
     border-radius: 80px 0 0 80px;
-  
-  
-  
+  margin-top: 20px;
   }
   
+  .sub-head h2{
+    font-size: 18px;
+  }
   .news-descp {
     padding-left: 0px;
   }
@@ -1816,12 +1846,13 @@ and (max-width: 540px) {
 
   .logo img{
     margin-left: 0px;
-    width: 50%;
+    width: 40%;
+    margin-top: -3px;
   }
   
   .toggle-btn {
     width: 100px;
-    margin-top: 10px;
+    margin-top: 5px;
   }
   
   .toggle-btn img {
@@ -1852,7 +1883,7 @@ and (max-width: 540px) {
   }
 
   .service-select{
-    margin-top: 20px;
+    margin-top: 50px;
   }
   
   .service-select a {
@@ -1958,6 +1989,7 @@ p{
 
   .gallery{
     padding: 0;
+    margin-top: 50px;
   }
 
   .gallery-item{
@@ -2114,16 +2146,24 @@ a#price-btn{
 p.bazar-descp{
   font-size: 14px;
   width: 85%;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
+  }
+
+  .news-social a{
+    font-size: 20px;
   }
   
+
+  .news-social{
+    margin-top: 10px;
+  }
+
   
   
   h1#news-head{
     font-size: 55px;
     line-height: 1.5;
-    margin-top: -20px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   }
   
   .news-descp p{
@@ -2131,16 +2171,17 @@ p.bazar-descp{
   }
   
   .newest h1 {
-    padding: 50px 50px 50px 30px;
+    padding: 30px 50px;
     font-size: 25px;
     line-height: 1.6;
     background-color: rgb(255,255,255,0.5);
     border-radius: 80px 0 0 80px;
-  
-  
-  
   }
   
+
+  .sub-head h2{
+    font-size: 18px;
+  }
   .news-descp {
     padding-left: 0px;
   }
@@ -2374,12 +2415,12 @@ and (max-width: 599px) {
 
   .logo img{
     margin-left: 0px;
-    width: 50%;
+    width: 45%;
   }
   
   .toggle-btn {
-    width: 110px;
-    margin-top: 10px;
+    width: 120px;
+    margin-top: 15px;
   }
   
   .toggle-btn img {
@@ -2409,7 +2450,7 @@ and (max-width: 599px) {
   }
 
   .service-select{
-    margin-top: 20px;
+    margin-top: 50px;
   }
   
   .service-select a {
@@ -2516,6 +2557,7 @@ p{
 
   .gallery{
     padding: 0;
+    margin-top: 60px;
   }
 
   .gallery-item{
@@ -2527,6 +2569,10 @@ p{
   }
   .blockfive{
     margin-top: 20px;
+  }
+
+  .fiveitem-one img{
+    width: 70%;
   }
   h4#five-descp {
     width: 85%;
@@ -2644,10 +2690,12 @@ a#price-btn{
 
 
 p.bazar-descp{
-font-size: 14px;
+font-size: 16px;
 width: 85%;
-margin-bottom: 60px;
+margin-bottom: 20px;
 }
+
+.sub-head h2{font-size: 20px;}
 
 
 
@@ -2899,12 +2947,12 @@ and (max-width: 768px) {
 
   .logo img{
     margin-left: 0px;
-    width: 50%;
+    width: 45%;
   }
   
   .toggle-btn {
-    width: 115px;
-    margin-top: 15px;
+    width: 130px;
+    margin-top: 20px;
   }
   
   .toggle-btn img {
@@ -3033,6 +3081,7 @@ p{
 
   .gallery{
     padding: 0;
+    margin-top: 50px;
   }
 
   .gallery-item{
@@ -3041,6 +3090,10 @@ p{
 
   h4#five-descp {
     width: 85%;
+}
+
+.fiveitem-one img{
+  width: 70%;
 }
 
   .blocksix-item h3, .blocknine-item h3{
@@ -3141,7 +3194,15 @@ h1.bazar-headline {
 p.bazar-descp{
 font-size: 14px;
 width: 85%;
-margin-bottom: 70px;
+margin-bottom: 0px;
+}
+
+.news-social{
+  margin-top: 10px;
+}
+
+.news-social a{
+  font-size: 20px;
 }
 
 .news-descp p{
@@ -3149,7 +3210,7 @@ font-size: 15px;
 }
 
 .newest h1 {
-  padding: 0px 50px 50 30px;
+  padding: 10px 50px 20px 50px;
   font-size: 25px;
 }
 
@@ -3195,6 +3256,9 @@ padding: 20px 50px;
 font-size: 22px;
 }
 
+.sub-head h2{
+  font-size: 20px;
+}
 
 /*****NOVINKY*****/
 /*****NOVINKY*****/
@@ -3376,16 +3440,16 @@ and (max-width: 834px) {
   }
   
   .toggle-btn {
-    width: 120px;
+    width: 160px;
     margin-top: 20px;
   }
   
   .toggle-btn img {
-    width: 25%;
+    width: 20%;
   }
   
   span{
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .main-headline{
@@ -3599,15 +3663,27 @@ font-size: 16px;
 width: 80%;
 }
 
+.news-social{
+  margin-top: 20px;
+}
+
+.news-social a {
+  font-size: 25px;
+}
+
 .news-descp p{
 font-size: 15px;
 }
 
 .newest h1 {
-  padding: 0px 50px 50px 50px;
+  padding: 50px;
   font-size: 30px;
 }
 
+
+.sub-head h2{
+  font-size: 22px;
+}
 .news-descp {
   padding-left: 50px;
 }
@@ -3818,16 +3894,16 @@ and (max-width: 992px) {
   }
   
   .toggle-btn {
-    width: 130px;
-    margin-top: 15px;
+    width: 160px;
+    margin-top: 25px;
   }
   
   .toggle-btn img {
-    width: 23%;
+    width: 20%;
   }
   
   span{
-    font-size: 20px;
+    font-size: 25px;
   }
   
 
@@ -4011,10 +4087,12 @@ font-size: 15px;
 }
 
 .newest h1 {
-  padding: 0px 50px 50px 50px;
+  padding: 50px;
   font-size: 35px;
 }
-
+.sub-head h2{
+  font-size: 22px;
+}
 .news-descp {
   padding-left: 50px;
 }
@@ -4188,7 +4266,7 @@ body{
 }
 .logo img{
   margin-left: 0px;
-  width: 34%;
+  width: 35%;
 }
 
 .toggle-btn img {
@@ -4196,7 +4274,7 @@ body{
 }
 
 span{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .main-headline{
@@ -4381,7 +4459,7 @@ font-size: 15px;
 }
 
 .newest h1 {
-  padding: 0px 50px 50px 50px;
+  padding: 50px;
   font-size: 35px;
 }
 
@@ -4410,6 +4488,10 @@ a.cal-btn {
 color: #ffffff;
 padding: 20px 50px;
 font-size: 22px;
+}
+
+.sub-head h2{
+  font-size: 25px;
 }
 
 
@@ -4524,16 +4606,16 @@ and (min-width: 1280px)
 and (max-width: 1366px) {
 
   .logo img{
-    width: 25%;
+    width: 30%;
     margin-left: 0px;
   }
   
   .toggle-btn img {
-    width: 22%;
+    width: 25%;
   }
   
   span{
-    font-size: 22px;
+    font-size: 25px;
   }
   /*****MAIN*****/
   .main-headline{
@@ -4630,6 +4712,14 @@ h1.bazar-headline {
   margin-top: -40px;
 }
 
+.news-social {
+  margin-top: 20px;
+}
+
+.news-social a {
+  font-size: 25px;
+}
+
 p.bazar-descp{
 font-size: 18px;
 width: 70%;
@@ -4646,6 +4736,10 @@ font-size: 15px;
 
 .cal-card{
 top: 25%;
+}
+
+.sub-head h2{
+  font-size: 20px;
 }
 
 
@@ -4722,11 +4816,12 @@ and (max-width: 1499px) {
 
   .logo img{
     margin-left: 0px;
-    width: 25%;
+    width: 30%;
   }
   
   .toggle-btn{
-    width: 160px;
+    width: 180px;
+    margin-top: 30px;
   }
 
   .toggle-btn img {
@@ -4734,7 +4829,7 @@ and (max-width: 1499px) {
   }
   
   span{
-    font-size: 20px;
+    font-size: 30px;
   }
   /*****MAIN*****/
   .main-headline{
@@ -4777,9 +4872,7 @@ and (max-width: 1499px) {
  /*****MOTORKY*****/
   /*****MOTORKY*****/
   /*****MOTORKY*****/
-  p.main-descp{
-    font-size: 22px;
-  }
+
 
   .slick-itm{
     width: 20%;
@@ -4808,6 +4901,10 @@ and (max-width: 1499px) {
     margin-top: 50px;
   }
 
+  .price-item{
+    width: 90%;
+  }
+
    /*****MOTORKY*****/
   /*****MOTORKY*****/
   /*****MOTORKY*****/
@@ -4818,6 +4915,14 @@ and (max-width: 1499px) {
   h1.bazar-headline {
     font-size: 80px;
     margin-top: -35px;
+}
+
+.news-social {
+  margin-top: 20px;
+}
+
+.news-social a {
+  font-size: 25px;
 }
 
 p.bazar-descp{
@@ -4835,6 +4940,10 @@ p.bazar-descp{
 
 .cal-card{
   top: 25%;
+}
+
+.sub-head h2{
+  font-size: 25px;
 }
 
 
@@ -4901,12 +5010,17 @@ and (max-width: 1652px) {
     width: 25%;
   }
 
+  .toggle-btn{
+    margin-top: 45px;
+    width: 180px;
+  }
+
   .toggle-btn img {
     width: 20%;
 }
   
   span{
-    font-size: 20px;
+    font-size: 25px;
   }
   
 
@@ -4951,6 +5065,10 @@ and (max-width: 1652px) {
     margin-top: 50px;
   }
 
+  .price-item{
+    width: 90%;
+  }
+
 
 
    /*****MOTORKY*****/
@@ -4962,6 +5080,10 @@ and (max-width: 1652px) {
   /*****NOVINKY*****/
   h1.bazar-headline {
     font-size: 85px;
+}
+
+.news-social {
+  margin-top: 20px;
 }
 
 .baz-item{

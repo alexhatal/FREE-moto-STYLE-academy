@@ -166,7 +166,8 @@ ul.event{
     margin-bottom: 40px;
     font-size: 15px;
     margin-left: 80px;
-      list-style: none;
+    list-style: none;
+    padding-right: 10px;
 }
 
   ul li::before {
