@@ -45,7 +45,7 @@ p.main-descp{
     margin-left: 5px;
     box-shadow: 2px 2px 10px 3px #6b6b6b;
     width: 160px;
-    border-radius: 20px 0 20px 0px;
+    border-radius: 10px 0 10px 0px;
     text-align: center;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0 rgb(255, 137, 1).5s ease-in-out;
@@ -61,7 +61,7 @@ p.main-descp{
 .service-head{
   background-color:rgb(255, 137, 1) ;
   box-shadow: 0px 15px 35px rgba(100, 100, 100, 0.5);
-  border-radius: 0px 50px 0px 50px;
+  border-radius: 0px 30px 0px 30px;
 }
 
 .service-head h2{
