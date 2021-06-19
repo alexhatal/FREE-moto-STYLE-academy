@@ -1453,7 +1453,6 @@ font-size: 20px;
     line-height: 1.6;
     border-radius: 80px 0 0 80px;
   margin-top: 20px;
-  background-color: rgb(255,255,255,0.5);
   }
   
   .sub-head h2{
@@ -1957,7 +1956,6 @@ p.bazar-descp{
     padding: 30px 50px;
     font-size: 25px;
     line-height: 1.6;
-    background-color: rgb(255,255,255,0.5);
     border-radius: 80px 0 0 80px;
   }
   
@@ -2429,7 +2427,6 @@ font-size: 15px;
   padding: 50px 50px 50px 30px;
   font-size: 25px;
   line-height: 1.6;
-  background-color: rgb(255,255,255,0.5);
   border-radius: 80px 0 0 80px;
 
 
@@ -3907,7 +3904,7 @@ font-size: 15px;
 .newest h1 {
   padding: 50px;
   font-size: 35px;
-  margin-top: 50px;
+  
 }
 
 .news-descp {
