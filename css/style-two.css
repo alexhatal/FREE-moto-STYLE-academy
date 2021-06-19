@@ -60,7 +60,7 @@ p.main-descp{
 /****BLOCKONE****/
 .service-head{
   background-color:rgb(255, 137, 1) ;
-  box-shadow: 0px 3px 15px rgb(46, 46, 46);
+  box-shadow: 0px 15px 35px rgba(100, 100, 100, 0.5);
   border-radius: 0px 50px 0px 50px;
 }
 
