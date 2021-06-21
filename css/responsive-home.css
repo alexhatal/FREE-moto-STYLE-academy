@@ -164,6 +164,7 @@ h3.name{
 .partners-item{
   width: 40%;
   padding: 10px 0;
+  line-height: 2;
 }
 
 .partners-item h3{
@@ -344,6 +345,7 @@ h3.name{
 .partners-item{
   width: 40%;
   padding: 10px 0;
+  line-height: 2;
 }
 
 .partners-item h3{
@@ -530,6 +532,7 @@ h3.name{
 .partners-item{
   width: 40%;
   padding: 10px 0;
+  line-height: 2;
 }
 
 .partners-item h3{
@@ -729,6 +732,7 @@ a.person-social{
 .partners-item{
   width: 40%;
   padding: 10px 0;
+  line-height: 3;
 }
 
 .partners-item h3{
@@ -897,6 +901,7 @@ h3.name{
 .partners-item{
   width: 40%;
   padding: 10px 0;
+  line-height: 3;
 }
 
 .partners-item h3{
@@ -1064,6 +1069,7 @@ p.label, p.description{
 
 .partners-item{
   width: 25%;
+  line-height: 3;
 }
 
 .partners-item h3{
@@ -1234,6 +1240,7 @@ p.label, p.description{
 
 .partners-item{
   width: 25%;
+  line-height: 3;
 }
 
 .partners-item h3{
@@ -1401,6 +1408,7 @@ p.label, p.description{
 
 .partners-item{
   width: 30%;
+  line-height: 4;
 }
 
 .partners-item h3{
@@ -1570,6 +1578,7 @@ p.label, p.description{
 
 .partners-item{
   width: 30%;
+  line-height: 5;
 }
 
 .partners-item h3{

@@ -14,7 +14,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
-<link rel="icon" href="img/favicon.ico" type="image/gif" sizes="16x16">    
+<link rel="icon" href="img/favicon.ico" type="image/gif" sizes="16x16">  
+<link rel="stylesheet" href="form.php">  
 <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/style-two.css">
     <link rel="stylesheet" href="css/footer.css">
@@ -106,32 +107,33 @@
   
   
     </div>
-    <form class="form-wrap" id="md-form" autocomplete="on" method="POST">
+   
+    <form action="form.php" class="form-wrap" id="md-form" autocomplete="on" method="POST">
       <div class="input-wrap">
   
         <i class="fas fa-user-alt" class="material-icons" id="form-icon"></i>
         <label for="a">Jméno</label>
-        <input class="input" type="text" id="a" placeholder="Jméno a Přijímení" value="" />
+        <input class="input" type="text" id="a" placeholder="Jméno a Přijímení" value="" name="Jméno" required />
   
       </div>
   
       <div class="input-wrap">
         <i class="fas fa-envelope" class="material-icons" id="form-icon"></i>
         <label for="b">E-mail</label>
-        <input class="input" type="email" id="b" placeholder="email@mail.com" value="" />
+        <input class="input" type="email" id="b" placeholder="email@mail.com" value="" name="Email" required/>
   
       </div>
 
       <div class="input-wrap">
         <i class="fas fa-mobile-alt" class="material-icons" id="form-icon"></i>
         <label for="e">Telefon</label>
-        <input class="input" type="tel" id="e" placeholder="+420 123 456 789" value="" />
+        <input class="input" type="tel" id="e" placeholder="+420 123 456 789" value="" name="Telefon" required/>
       </div>
 
       <div class="input-wrap">
         <i class="fas fa-list-alt" class="material-icons" id="form-icon"></i>
         <label>Služba</label><br><br>
-        <select id="sluzba">
+        <select id="sluzba" name="Služba" required>
             <option value="Prodej">Prodej</option>
             <option value="Pronájem">Pronájem</option>
             <option value="FMX SHOW">FMX SHOW</option>
@@ -149,11 +151,11 @@
       <div class="input-wrap">
         <i class="fas fa-comment-dots" class="material-icons" id="form-icon"></i>
         <label for="c">Vaše zpráva</label>
-        <textarea class="input" id="c" placeholder="Napište nám" /></textarea>
+        <textarea class="input" id="c" placeholder="Napište nám" name="Zpráva"></textarea>
       </div>
   
       <div class="input-wrap">
-        <input type="checkbox" id="d">
+        <input type="checkbox" id="d" required>
         <label for="d" id="send-sub">Odesláním formuláře souhlasíte se zpracováním osobních údajů</label>
       </div>
   
@@ -301,7 +303,7 @@
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-arrow-alt-circle-up"></i></button>
 
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://kit.fontawesome.com/8c5ffe8f98.js" crossorigin="anonymous"></script>
 <script src="js.js"></script>
 
